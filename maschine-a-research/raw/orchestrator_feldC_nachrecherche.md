@@ -129,3 +129,57 @@ Agent bisher hatte:
    oder Prüfleistung das Geschäft trägt. Achtung: Die Prüfung selbst darf nur
    eine **Elektrofachkraft** durchführen [F] — das ist eine
    Qualifikationsbindung, kein Verbot, aber ein Personalengpass.
+
+---
+
+## 5. Nachtrag: Preisanker Wartung/FM und ein belegter Angreifer
+
+| Leistung | Preis | Quelle |
+|---|---|---|
+| **Aufzugswartungsvertrag** | **1.500–3.000 €/Jahr je Anlage** [F] = 125–250 €/Monat | personenaufzuege.com, aufzug24.net |
+| **Aszendio** – nutzungsbasierte Aufzugswartung | **ab 930 €/Jahr Basispreis (77,50 €/Monat)** + variabler Wartungseinsatz [F] | aszendio.com |
+| **Facility Management (München, je Leistungsumfang)** | **1,50–6,00 €/m²/Monat** [F] | falke-fm.com |
+| KONE / TK Elevator | kein öffentlicher Preis, individuelle Bewertung je Anlage [F] | kone.de, tkelevator.com |
+
+### Warum Aszendio wichtig ist
+
+Aszendio ist ein **belegtes Praxisbeispiel für genau das Muster, das Agent 10
+sucht**: eine Legacy-Branche mit Oligopol (KONE, Schindler, TK Elevator, Otto),
+intransparenter Preisbildung („individuelles Angebot je Anlage") und
+unzufriedenen Kunden wird von einem Angreifer mit **transparentem,
+nutzungsbasiertem Preismodell** attackiert. Das Wechselargument ist nicht
+Technik, sondern **Preistransparenz und Fairness** — dieselbe Struktur, die
+Agent 11 im Voice-Markt gefunden hat (MV-1: Abrechnung ist die Nr.-1-Beschwerde).
+
+**Verallgemeinerbare These für die Longlist [S]:** In deutschen
+Wartungsmärkten mit Herstelleroligopol und Preisintransparenz ist
+„transparente, nutzungsbasierte Abrechnung + digitaler Nachweis" ein
+tragfähiger Angriffsvektor. Zu prüfen für: Aufzüge, Brandmeldeanlagen,
+Torantriebe, Kälte/Klima, Ladeinfrastruktur.
+
+**Gegenprobe an Nicos Kriterien:** Dieses Muster erfordert die
+**Leistungserbringung selbst** (Monteure, Fahrzeuge, Ersatzteile) — also ein
+personalintensives Servicegeschäft mit Bruttomargen deutlich unter 65 %.
+Es kollidiert mit Kriterium 2 und ist nur dann interessant, wenn Nico die
+**Steuerungsschicht** (Software, Disposition, Nachweis, Abrechnung) verkauft
+und die Ausführung bei bestehenden Fachbetrieben belässt. Diese Unterscheidung
+ist für die Bewertung entscheidend und muss in der Shortlist sauber gezogen
+werden.
+
+### Antwort auf Agent 03s kritischste Frage (§7, Punkt 14)
+
+> „Zahlt ein deutscher Betrieb 2.000–3.000 €/Monat für irgendetwas?"
+
+**Ja — aber nicht der 5-Mann-Handwerksbetrieb.** Belegt zahlen in dieser
+Größenordnung:
+- **Objekt-/Anlagenbetreiber** (Wohnungswirtschaft, Industrie, öffentliche
+  Hand): FM ab 1,50 €/m²/Monat bedeutet bei 2.000 m² bereits 3.000 €/Monat [S].
+- **Betreiber mit mehreren Anlagen**: 20 Aufzüge × 125–250 €/Monat =
+  2.500–5.000 €/Monat [S].
+
+**Konsequenz für die Zielgruppenwahl:** Die Kundenzahl-Arithmetik aus Agent 03
+§2.3 (500–1.900 Kunden nötig) löst sich **nicht** durch ein besseres Produkt
+für Handwerksbetriebe, sondern **nur durch einen Zielgruppenwechsel** — weg vom
+ausführenden Kleinbetrieb, hin zum **Betreiber mit Anlagenbestand und
+Haftungsrisiko**. Das ist die wichtigste strategische Ableitung dieser
+Nachrecherche und muss in die Bewertung aller Modelle einfließen.
