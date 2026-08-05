@@ -1,0 +1,33 @@
+# Bewertungsmatrix Maschine A - Stand 2026-08-05 - Skala 0-10
+# Invertierte Kategorien (10 = guenstig): Unabhaengigkeit, Regulatorik, Haftung, Startkapital
+# Score = gewichtete Summe der 13 gewichteten Kategorien. Ungewichtete Kategorien dienen als Tiebreaker.
+# Alle Werte NACH Red-Team-Korrektur. Quellen je Wert in 14_top_5_deep_dive.md
+Kategorie;Gewicht;S08_Monitoring_B2B2B;S01_Betreiberpflichten_Overlay;S04_Leitstelle;S02_Terminierung;S13_Voice_Agent;S03_Sensor_SHK;S05_Anlagen_IoT;S15_Franchise;S16_MicroETA
+Persoenlichkeits_Fit;12%;7.0;4.8;5.2;6.9;6.7;7.9;8.0;7.1;4.4
+Nordstern_Fit;12%;7.5;5.0;6.5;6.0;4.5;6.5;6.5;8.0;5.0
+Wiederkehrender_Umsatz;10%;8.5;9.0;9.0;7.0;6.0;7.5;7.5;8.0;7.0
+Delegierbarkeit;10%;8.0;6.5;9.0;8.5;4.0;5.0;4.5;7.0;4.0
+Unabhaengigkeit_von_Nico;10%;7.5;5.0;8.5;7.5;4.0;5.0;4.5;6.5;3.5
+Staerke_des_Kundenproblems;8%;7.5;9.0;8.0;7.0;5.5;5.0;6.5;6.0;7.0
+Zahlungsbereitschaft;7%;7.0;6.5;7.5;5.0;5.0;4.5;5.5;5.5;8.0
+Bruttomarge;7%;7.5;5.5;6.0;8.5;5.5;6.0;6.5;8.5;4.0
+Standardisierbarkeit;6%;8.0;6.0;8.5;8.0;6.5;7.0;6.0;8.0;5.0
+Skalierbarkeit;6%;7.5;7.0;8.5;6.5;6.0;6.0;6.5;7.5;5.5
+Geschwindigkeit_erster_Umsatz;5%;6.0;5.0;6.0;8.0;8.5;4.0;4.5;3.0;9.0
+Regulatorisches_Risiko_invers;2%;9.0;5.5;3.0;4.0;5.0;7.5;8.0;6.0;7.0
+Haftungsrisiko_invers;2%;8.0;3.5;4.0;4.5;6.0;7.0;7.5;6.0;5.5
+Unternehmenswert;3%;7.5;7.0;8.0;5.5;4.0;6.5;7.0;8.0;7.5
+GEWICHTETER_SCORE;100%;7.55;6.34;7.45;6.99;5.50;6.29;6.36;7.11;5.53
+# --- Ungewichtete Zusatzkategorien (Tiebreaker in dieser Reihenfolge) ---
+Langfristige_Neugier_Tiebreak1;-;7.0;3.0;5.0;6.0;6.0;8.0;8.5;7.0;5.0
+Startkapitalbedarf_invers_Tiebreak2;-;5.0;3.5;3.0;6.0;6.5;2.0;3.0;5.0;7.0
+Wettbewerbsvorteil_Tiebreak3;-;6.0;6.5;6.5;3.0;2.0;3.0;4.0;7.0;6.5
+Marktgroesse;-;7.0;8.5;7.5;6.0;7.0;7.5;6.5;6.0;9.0
+Produktverbesserung_moeglich;-;7.5;7.0;6.5;7.0;5.0;7.0;7.5;7.0;6.0
+Internationale_Erweiterbarkeit;-;7.0;4.0;5.0;5.5;6.0;7.0;7.5;6.0;3.0
+# --- Statusspalten ---
+RedTeam_Urteil;-;AUSSTEHEND;angeschlagen;angeschlagen;widerlegt_als_Standalone;widerlegt;widerlegt;angeschlagen_redundant;nicht_angegriffen;nicht_angegriffen
+KO_Verstoss;-;keiner;KO9_bedingt_KO10_gefaehrdet;KO3_bedingt_verletzt;keiner;keiner;keiner;keiner;keiner;KO1_wenn_Betrieb_Ziel_statt_Rohstoff
+Finanzierbar_unter_A1;-;nicht_modelliert;NEIN_280k;NEIN_342k;GRENZWERTIG_172k;GRENZWERTIG_184k;NEIN_439k;nicht_modelliert;nicht_modelliert;JA_ueber_Fremdkapital
+Break_even_realistisch;-;nicht_modelliert;M26;M21;M21;M16;M28;nicht_modelliert;nicht_modelliert;M1_Cashflow_ab_Closing
+Schafft_80_Prozent_Ausstieg_in_24M;-;JA;JA_ab_M28_30;JA;JA;NEIN;NEIN;NEIN;nicht_geprueft;nicht_geprueft

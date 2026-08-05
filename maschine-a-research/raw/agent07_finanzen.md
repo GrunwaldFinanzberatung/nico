@@ -11,9 +11,9 @@ Kapitalbedarf, Sensitivität?" · Gegenstand: S01, S02, S03, S04, S13
 1. **Kein einziges Modell erreicht im realistischen Szenario 30.000 € netto privat innerhalb von 24 Monaten** – die schnellsten (S04, S13) brauchen 36–37 Monate, S01 47 Monate, S02 50 Monate, S03 60 Monate.
 2. **In allen fünf konservativen Szenarien scheitert das Vorhaben** – drei erreichen nie einen Break-even (S02, S03, S13), zwei erst in Monat 52–54 (S01, S04). Das konservative Szenario ist kein Puffer, es ist ein Abbruchszenario.
 3. **Annahme A1 (20.000–60.000 € Startkapital) trägt kein realistisches Szenario.** Nur die *absoluten* Kapitaluntergrenzen von S13 (33.600 €) und S02 (46.300 €) liegen innerhalb von A1 – und zwar ohne jeden Puffer, d. h. bei exakter Planerfüllung.
-4. **Der tödlichste Hebel ist in vier von fünf Modellen der CAC, nicht der Churn.** CAC +100 % verdreifacht bis vervierfacht den Kapitalbedarf und verschiebt den Break-even um 13–25 Monate. Churn +50 % kostet dagegen selten mehr als 3 Monate.
-5. **Der zweittödlichste Hebel ist der Vertriebszyklus.** Verdoppelt er sich, verschiebt sich das 100.000-€-Ziel um 14–20 Monate – bei praktisch unverändertem Deckungsbeitrag. Zeit ist in diesen Modellen teurer als Marge.
-6. **S03 in der Hardware-Mietvariante ist mit 2,04 Mio. € Kapitalbedarf strukturell nicht finanzierbar** und muss zwingend als Hardware-*Verkauf* strukturiert werden, sonst fällt das Modell aus.
+4. **Der tödlichste Hebel ist in vier von fünf Modellen der CAC, nicht der Churn.** CAC +100 % verdreifacht bis vervierfacht den Kapitalbedarf (Faktor 2,9–4,1) und verschiebt den Break-even um 13–25 Monate. Churn +50 % kostet dagegen nie mehr als 4 Monate.
+5. **Der zweittödlichste Hebel ist der Vertriebszyklus.** Verdoppelt er sich, verschiebt sich das 100.000-€-Ziel um 9–20 Monate (S01 am stärksten: M28 → M48) – bei völlig unverändertem Deckungsbeitrag. Zeit ist in diesen Modellen teurer als Marge.
+6. **S03 in der Hardware-Mietvariante ist mit 1,96 Mio. € Kapitalbedarf strukturell nicht finanzierbar** und muss zwingend als Hardware-*Verkauf* strukturiert werden, sonst fällt das Modell aus.
 7. **Kapitaleffizientestes Modell ist S02 (Terminierungs-Abo)**, gefolgt von S13. S03 ist das kapitalineffizienteste und in jeder Variante das teuerste.
 
 ---
@@ -383,8 +383,8 @@ Das ist keine Preisfrage, sondern die Kapitalfrage des gesamten Modells.
 | Variante | Bruttomarge | Break-even | Kapitalbedarf | 100 k €/Monat |
 |---|---|---|---|---|
 | **Hardware-Verkauf** (189 € VK / 110 € EK, Vorkasse) | 75,2 % | Monat 28 | **438.916 €** | Monat 25 |
-| Hardware-Verkauf, EK +30 % (143 €) | 75,2 % | Monat 35 | 736.137 € | Monat 25 |
-| **Hardware-Miete** (kein HW-Umsatz, 110 € Vorfinanzierung je Anlage) | 75,2 % | **nie** | **2.039.487 €** | Monat 40 |
+| Hardware-Verkauf, EK +30 % (143 €) | 75,2 % | Monat 35 | 658.186 € | Monat 25 |
+| **Hardware-Miete** (kein HW-Umsatz, 110 € Vorfinanzierung je Anlage) | 75,2 % | **nie** | **1.960.986 €** | Monat 40 |
 
 **Gegenprobe im Endzustand:** Für 100.000 € MRR aus dem Sensorstrom bräuchte man bei
 6 €/Anlage/Monat rund **14.000 Anlagen** [S]. Bei 110 € Einkauf sind das
@@ -526,8 +526,8 @@ außer einem Portal, die Leistung selbst wird eingekauft.
 | Einkauf je Aufschaltung | Bruttomarge | DB je Kunde | Break-even | Kapitalbedarf | Ergebnis M24 |
 |---|---|---|---|---|---|
 | 15 € (Basis realistisch) | **66,9 %** | 1.304 € | Monat 21 | 341.861 € | +6.594 € |
-| 19,50 € (+30 %) | **57,7 %** | 1.124 € | Monat 26 | 511.775 € | −176 € |
-| 24,00 € (+60 %) | **48,4 %** | 944 € | Monat 30 | 650.962 € | −6.946 € |
+| 19,50 € (+30 %) | **57,7 %** | 1.124 € | Monat 26 | 451.131 € | −176 € |
+| 24,00 € (+60 %) | **48,4 %** | 944 € | Monat 30 | 569.714 € | −6.946 € |
 | 18 € (konservativ, bei 39 € VK) | **54,4 %** | 584 € | Monat 52 | 839.562 € | −20.397 € |
 
 Das ist die strukturelle Schwäche des Reseller-Modells: **S04 besitzt seinen Wareneinsatz
@@ -724,45 +724,45 @@ Zykluslänge **und** halbierte Rampengeschwindigkeit.
 | Modell | Variante | Break-even | Kum. CF > 0 | Kapitalbedarf | Ergebnis M24 | MRR M24 | 100 k erreicht | LTV/CAC | Payback |
 |---|---|---|---|---|---|---|---|---|---|
 | **S01** | Basis realistisch | M26 | M35 | 279.761 € | −235 € | 55.581 € | M28 | 15,6 | 6,4 |
-| S01 | Churn +50 % | M25 | M36 | 258.944 € | −1.387 € | 53.532 € | M28 | 10,4 | 6,4 |
-| S01 | **Preis −20 %** | M39 | M56 | 555.964 € | −10.501 € | 44.465 € | M31 | 10,0 | 10,0 |
-| S01 | **CAC +100 %** | **M45** | M59 | **1.063.964 €** | −16.335 € | 55.581 € | M28 | 7,8 | 12,9 |
-| S01 | **Zyklus × 2** | **M46** | M63 | 493.727 € | −3.408 € | **13.671 €** | **M48** | 15,6 | 6,4 |
-| S01 | alle vier zugleich | **nie** | nie | 1.494.663 € | −10.269 € | 10.658 € | M54 | 3,3 | 20,1 |
+| S01 | Churn +50 % | M25 | M36 | 256.125 € | −1.387 € | 53.532 € | M28 | 10,4 | 6,4 |
+| S01 | **Preis −20 %** | M39 | M56 | 507.980 € | −10.501 € | 44.465 € | M31 | 10,0 | 10,0 |
+| S01 | **CAC +100 %** | **M45** | M59 | **1.000.822 €** | −16.335 € | 55.581 € | M28 | 7,8 | 12,9 |
+| S01 | **Zyklus × 2** | **M46** | M63 | 469.687 € | −3.408 € | **13.671 €** | **M48** | 15,6 | 6,4 |
+| S01 | alle vier zugleich | **nie** | nie | 1.463.194 € | −10.269 € | 10.658 € | M54 | 3,3 | 20,1 |
 | **S02** | Basis realistisch | M21 | M29 | 171.895 € | +2.576 € | 48.904 € | M34 | 19,4 | 2,9 |
-| S02 | Churn +50 % | M25 | M31 | 186.209 € | −398 € | 45.372 € | M37 | 12,9 | 2,9 |
-| S02 | Preis −20 % | M29 | M43 | 293.775 € | −5.155 € | 39.123 € | M39 | 14,8 | 3,8 |
-| S02 | **CAC +100 %** | **M39** | M54 | **617.945 €** | −11.524 € | 48.904 € | M34 | 9,7 | 5,7 |
-| S02 | **Zyklus × 2** | M33 | M45 | 240.983 € | −3.067 € | **30.444 €** | **M51** | 19,4 | 2,9 |
-| S02 | alle vier zugleich | **nie** | nie | 981.106 € | −11.079 € | 22.831 € | M65 | 4,9 | 7,5 |
+| S02 | Churn +50 % | M25 | M31 | 181.264 € | −398 € | 45.372 € | M37 | 12,9 | 2,9 |
+| S02 | Preis −20 % | M29 | M43 | 280.384 € | −5.155 € | 39.123 € | M39 | 14,8 | 3,8 |
+| S02 | **CAC +100 %** | **M39** | M54 | **581.817 €** | −11.524 € | 48.904 € | M34 | 9,7 | 5,7 |
+| S02 | **Zyklus × 2** | M33 | M45 | 233.519 € | −3.067 € | **30.444 €** | **M51** | 19,4 | 2,9 |
+| S02 | alle vier zugleich | **nie** | nie | 967.685 € | −11.079 € | 22.831 € | M65 | 4,9 | 7,5 |
 | **S03** | Basis realistisch | M28 | M42 | 438.916 € | −1.300 € | 84.967 € | M25 | 9,8 | 5,1 |
-| S03 | Churn +50 % | M29 | M45 | 456.404 € | −4.613 € | 79.453 € | M25 | 6,5 | 5,1 |
-| S03 | **Preis −20 %** | M44 | **nie** | 866.256 € | −16.244 € | 67.973 € | M29 | 7,2 | 7,0 |
-| S03 | **CAC +100 %** | **M53** | **nie** | **1.457.487 €** | −21.850 € | 84.967 € | M25 | 4,9 | 10,2 |
-| S03 | Zyklus × 2 | M41 | M64 | 570.194 € | −12.959 € | 47.366 € | M39 | 9,8 | 5,1 |
-| S03 | alle vier zugleich | **nie** | nie | **1.938.352 €** | −34.849 € | 35.797 € | M52 | 2,4 | 13,9 |
+| S03 | Churn +50 % | M29 | M45 | 458.336 € | −4.613 € | 79.453 € | M25 | 6,5 | 5,1 |
+| S03 | **Preis −20 %** | M44 | **nie** | 820.422 € | −16.244 € | 67.973 € | M29 | 7,2 | 7,0 |
+| S03 | **CAC +100 %** | **M53** | **nie** | **1.386.118 €** | −21.850 € | 84.967 € | M25 | 4,9 | 10,2 |
+| S03 | Zyklus × 2 | M41 | M64 | 540.542 € | −12.959 € | 47.366 € | M39 | 9,8 | 5,1 |
+| S03 | alle vier zugleich | **nie** | nie | **1.906.671 €** | −34.849 € | 35.797 € | M52 | 2,4 | 13,9 |
 | **S04** | Basis realistisch | M21 | M32 | 341.861 € | +6.594 € | 111.673 € | M23 | 66,5 | 2,1 |
-| S04 | Churn +50 % | M24 | M33 | 386.849 € | +4.466 € | 108.372 € | M23 | 44,4 | 2,1 |
-| S04 | Preis −20 % | M30 | M44 | 575.725 € | −6.041 € | 89.338 € | M26 | 46,6 | 3,1 |
-| S04 | **CAC +100 %** | **M34** | M46 | **1.048.283 €** | −18.806 € | 111.673 € | M23 | 33,3 | 4,3 |
-| S04 | **Zyklus × 2** | M34 | M48 | 450.803 € | −9.411 € | **44.842 €** | **M35** | 66,5 | 2,1 |
-| S04 | alle vier zugleich | **nie** | nie | **1.777.660 €** | −31.497 € | 35.082 € | M40 | 15,5 | 6,1 |
+| S04 | Churn +50 % | M24 | M33 | 381.950 € | +4.466 € | 108.372 € | M23 | 44,4 | 2,1 |
+| S04 | Preis −20 % | M30 | M44 | 555.396 € | −6.041 € | 89.338 € | M26 | 46,6 | 3,1 |
+| S04 | **CAC +100 %** | **M34** | M46 | **997.685 €** | −18.806 € | 111.673 € | M23 | 33,3 | 4,3 |
+| S04 | **Zyklus × 2** | M34 | M48 | 433.115 € | −9.411 € | **44.842 €** | **M35** | 66,5 | 2,1 |
+| S04 | alle vier zugleich | **nie** | nie | **1.713.384 €** | −31.497 € | 35.082 € | M40 | 15,5 | 6,1 |
 | **S13** | Basis realistisch | M16 | M22 | 183.766 € | +18.527 € | 111.493 € | M19 | 9,4 | 3,0 |
-| S13 | Churn +50 % | M19 | M23 | 190.372 € | +14.721 € | 99.039 € | M19 | 6,2 | 3,0 |
-| S13 | **Preis −20 %** | **M28** | M42 | 471.674 € | −1.752 € | 89.195 € | M21 | 6,4 | 4,5 |
-| S13 | **CAC +100 %** | **M32** | M46 | **825.238 €** | −11.073 € | 111.493 € | M19 | 4,7 | 6,1 |
-| S13 | Zyklus × 2 | M25 | M37 | 261.229 € | −171 € | 55.803 € | M28 | 9,4 | 3,0 |
-| S13 | alle vier zugleich | **nie** | nie | **1.851.229 €** | −27.913 € | 39.581 € | M38 | 2,1 | 8,9 |
+| S13 | Churn +50 % | M19 | M23 | 191.119 € | +14.721 € | 99.039 € | M19 | 6,2 | 3,0 |
+| S13 | **Preis −20 %** | **M28** | M42 | 440.623 € | −1.752 € | 89.195 € | M21 | 6,4 | 4,5 |
+| S13 | **CAC +100 %** | **M32** | M46 | **758.966 €** | −11.073 € | 111.493 € | M19 | 4,7 | 6,1 |
+| S13 | Zyklus × 2 | M25 | M37 | 243.073 € | −171 € | 55.803 € | M28 | 9,4 | 3,0 |
+| S13 | alle vier zugleich | **nie** | nie | **1.810.169 €** | −27.913 € | 39.581 € | M38 | 2,1 | 8,9 |
 
 ### 7.2 Welche Variable tötet welches Modell?
 
 | Modell | tödlichste Variable | Wirkung | zweittödlichste | Warum |
 |---|---|---|---|---|
-| **S01** | **CAC +100 %** | Break-even M26 → **M45**, Kapitalbedarf ×3,8 auf 1,06 Mio. € | Zyklus × 2 (100 k von M28 auf M48) | S01 hat den höchsten CAC absolut (5.000 €) bei nur 4 Neukunden/Monat in M24. Jeder Euro CAC schlägt mit dem 4-fachen auf den Monatscashflow durch. |
-| **S02** | **CAC +100 %** | BE M21 → **M39**, Kapital ×3,6 auf 618 k € | Zyklus × 2 (100 k von M34 auf M51) | Gleiche Mechanik, aber gedämpft durch 84 % Bruttomarge. **S02 ist gegen Churn und Preis am robustesten:** Preis −20 % verschiebt den BE nur um 8 Monate. |
-| **S03** | **CAC +100 %** | BE M28 → **M53**, Kapital ×3,3 auf 1,46 Mio. €, **kein kumulierter BE mehr** | **Preis −20 %** (866 k €, kein kum. BE) | S03 ist doppelt exponiert: Hardware-Einstandskosten sind fix und skalieren nicht mit dem Preis. Preis −20 % bei unveränderten 110 € Sensorkosten frisst die halbe Marge. |
-| **S04** | **CAC +100 %** | BE M21 → M34, Kapital ×3,1 auf 1,05 Mio. € | **Einkaufspreis der Partner-NSL +60 %** (Marge 67 % → 48 %) | S04 verträgt Churn und Preis besser als jedes andere Modell (LTV/CAC bleibt selbst bei Churn +50 % bei 44). Der wunde Punkt ist die **Fremdabhängigkeit im Wareneinsatz** – die einzige Variable, die S04 aus dem Nichts treffen kann. |
-| **S13** | **Preis −20 %** | BE M16 → **M28**, Kapital ×2,6 auf 472 k € | CAC +100 % (825 k €) | Als einziges Modell ist S13 preis- und nicht CAC-getrieben. Grund: Bruttomarge nur 63 %, variable Kosten (Minuten + Support) sind preisunabhängig. **Und genau Preisdruck ist im S13-Markt belegt** – Placetel 9 €/Monat, Telekom-Netzintegration, fonio-Rabattschlacht [F]. Der wahrscheinlichste Schock ist gleichzeitig der tödlichste. |
+| **S01** | **CAC +100 %** | Break-even M26 → **M45**, Kapitalbedarf ×3,6 auf 1,00 Mio. € | Zyklus × 2 (100 k von M28 auf M48) | S01 hat den höchsten CAC absolut (5.000 €) bei nur 4 Neukunden/Monat in M24. Jeder Euro CAC schlägt mit dem 4-fachen auf den Monatscashflow durch. |
+| **S02** | **CAC +100 %** | BE M21 → **M39**, Kapital ×3,4 auf 582 k € | Zyklus × 2 (100 k von M34 auf M51) | Gleiche Mechanik, aber gedämpft durch 84 % Bruttomarge. **S02 ist gegen Churn und Preis am robustesten:** Preis −20 % verschiebt den BE nur um 8 Monate. |
+| **S03** | **CAC +100 %** | BE M28 → **M53**, Kapital ×3,2 auf 1,39 Mio. €, **kein kumulierter BE mehr** | **Preis −20 %** (820 k €, kein kum. BE) | S03 ist doppelt exponiert: Hardware-Einstandskosten sind fix und skalieren nicht mit dem Preis. Preis −20 % bei unveränderten 110 € Sensorkosten frisst die halbe Marge. |
+| **S04** | **CAC +100 %** | BE M21 → M34, Kapital ×2,9 auf 998 k € | **Einkaufspreis der Partner-NSL +60 %** (Marge 67 % → 48 %) | S04 verträgt Churn und Preis besser als jedes andere Modell (LTV/CAC bleibt selbst bei Churn +50 % bei 44). Der wunde Punkt ist die **Fremdabhängigkeit im Wareneinsatz** – die einzige Variable, die S04 aus dem Nichts treffen kann. |
+| **S13** | **Preis −20 %** | BE M16 → **M28**, Kapital ×2,4 auf 441 k € | CAC +100 % (759 k €) | Als einziges Modell ist S13 preis- und nicht CAC-getrieben. Grund: Bruttomarge nur 63 %, variable Kosten (Minuten + Support) sind preisunabhängig. **Und genau Preisdruck ist im S13-Markt belegt** – Placetel 9 €/Monat, Telekom-Netzintegration, fonio-Rabattschlacht [F]. Der wahrscheinlichste Schock ist gleichzeitig der tödlichste. |
 
 ### 7.3 Drei querliegende Befunde aus der Sensitivität
 
@@ -784,7 +784,7 @@ Gerät) – und hat deshalb den zweithöchsten Kapitalbedarf trotz der besten Un
 
 **3. Der kombinierte Schock tötet alle fünf Modelle.** Bei Churn +50 %, Preis −20 %,
 CAC +100 % und doppeltem Vertriebszyklus erreicht **kein einziges Modell** einen Break-even
-innerhalb von 60 Monaten; der Kapitalbedarf liegt zwischen 981 k € (S02) und 1,94 Mio. € (S03).
+innerhalb von 60 Monaten; der Kapitalbedarf liegt zwischen 968 k € (S02) und 1,91 Mio. € (S03).
 Das ist keine akademische Übung: Die vier Schocks sind **korreliert**. Ein Wettbewerber, der
 in den Markt eintritt, senkt gleichzeitig den erzielbaren Preis, erhöht den CAC, verlängert
 den Zyklus (der Kunde vergleicht jetzt) und erhöht den Churn. **Die relevante Frage an
@@ -849,12 +849,13 @@ Endempfehlung stehen.
 | erster Euro Umsatz | Monat 3–5 | alle |
 | operativer Break-even | Monat 16–28 | alle |
 | 100.000 € Monatsumsatz (Zwischenziel Nordstern) | Monat 19–34 | alle |
-| **10.000 € netto/Monat privat** (EBT 19.700 €) | **Monat 22–31** | alle |
-| **20.000 € netto/Monat privat** (EBT 39.500 €) | Monat 28–45 | alle |
-| **30.000 € netto/Monat privat** (EBT 59.200 €) | **Monat 36–60** | alle |
+| **10.000 € netto/Monat privat** (EBT 19.740 €) | **Monat 25–37** | S13 M25 · S04 M29 · S02 M33 · S01 M35 · S03 M37 |
+| **20.000 € netto/Monat privat** (EBT 39.479 €) | Monat 31–47 | S13 M31 · S04 M34 · S02 M41 · S01 M42 · S03 M47 |
+| **30.000 € netto/Monat privat** (EBT 59.217 €) | **Monat 36–60** | S04 M36 · S13 M37 · S01 M47 · S02 M50 · S03 M60 |
 
-Der Sprung von 10.000 € auf 30.000 € netto dauert länger als der gesamte Weg von null auf
-10.000 €. Das ist die wichtigste Erwartung, die zu setzen ist.
+Der Sprung von 10.000 € auf 30.000 € netto dauert bei S01, S02 und S03 **12–23 weitere
+Monate**, bei S04 und S13 immerhin noch 7–12. Der Weg von null auf 10.000 € netto ist in
+allen Modellen der kürzere Teil der Strecke. Das ist die wichtigste Erwartung, die zu setzen ist.
 
 ---
 
@@ -885,8 +886,10 @@ Niedriger ist besser.
 
 ### 9.2 Ranking über alle drei Szenarien (der belastbare Vergleich)
 
-Ein Ranking, das nur ein Szenario ansieht, belohnt Optimismus. Der folgende Vergleich mittelt
-über alle drei Szenarien und zieht zusätzlich die absolute Kapitaluntergrenze heran.
+Ein Ranking, das nur ein Szenario ansieht, belohnt Optimismus. Der folgende Vergleich zieht drei
+Kriterien heran; **sortiert wird primär nach der absoluten Kapitaluntergrenze im realistischen
+Szenario** (Spalte 4), weil das die Größe ist, die über Startfähigkeit unter A1 entscheidet.
+Die Ø-Spalte steht daneben, nicht darüber.
 
 | Rang | Modell | Ø € Kapital / € MRR über 3 Szenarien | Tiefpunkt realistisch (absolute Untergrenze) | Einmalkosten realistisch | Urteil |
 |---|---|---|---|---|---|
@@ -937,7 +940,7 @@ die 12-Monats-Rampe greift.
 | S03 | konservativ | **72.500 €** | −919.008 € | 1.106.167 € | 🔴 **NICHT FINANZIERBAR** – schon M0 sprengt A1 |
 | S03 | realistisch | 55.000 € | −206.521 € | 438.916 € | 🔴 **NICHT FINANZIERBAR** |
 | S03 | ambitioniert | 42.500 € | −48.018 € | 176.444 € | 🔴 **NICHT FINANZIERBAR** |
-| S03 | *Mietvariante* | 55.000 € | – | **2.039.487 €** | 🔴 **STRUKTURELL NICHT FINANZIERBAR** |
+| S03 | *Mietvariante* | 55.000 € | – | **1.960.986 €** | 🔴 **STRUKTURELL NICHT FINANZIERBAR** |
 | S04 | konservativ | 29.500 € | −565.380 € | 839.562 € | 🔴 **NICHT FINANZIERBAR** |
 | S04 | realistisch | 25.000 € | −158.473 € | 341.861 € | 🔴 **NICHT FINANZIERBAR** |
 | S04 | ambitioniert | 21.000 € | −51.080 € | 174.779 € | 🔴 **NICHT FINANZIERBAR** |

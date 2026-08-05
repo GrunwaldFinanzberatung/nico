@@ -946,3 +946,1051 @@ bei kleinem Markt. Mit Kettenanteil (5 Ketten à 6.000 € + 155 Einzelpraxen
 Marktanteil von 2 % ist nötig – machbar, aber wenig Puffer.
 
 ---
+
+### ZG 11 – Steuerkanzleien
+
+**1. Anzahl** **53.932 Steuerberaterpraxen** (ohne weitere Beratungsstellen);
+**105.953 Kammermitglieder** gesamt (Stand 01.01.2026, +1,1 %), davon
+**88.995 Steuerberater**, **14.670 anerkannte Berufsausübungsgesellschaften**,
+**1.172 Steuerbevollmächtigte/Sonstige** – Bundessteuerberaterkammer,
+Berufsstatistik 2025 [F].
+
+**2. Größe** **65,9 % Selbstständigenquote**; **59.519 selbstständige**
+Steuerberater, **30.817 angestellte** Berufsangehörige [F].
+Typische Kanzlei: **3–15 Mitarbeitende** [A], [A] 300 T€ – 1,5 Mio. € Umsatz.
+
+**3. Entscheider** Kanzleiinhaber/Partner, **45–62** [A]. Frauenanteil
+**39,3 %** – neuer Höchststand [F]. Digitalaffinität mittel bis hoch, aber
+**vollständig innerhalb des DATEV-Ökosystems** – das ist gleichzeitig Chance
+(DATEV-Marktplatz als Kanal) und Barriere.
+
+**4. Konkretes Problem**
+(a) **Nachwuchs- und Personalengpass ist belegt**: „Die Zahl der
+Ausbildungsverhältnisse ist weiter rückläufig"; **17.081** Ausbildungsverhältnisse
+zum Steuerfachangestellten bundesweit – BStBK [F]. Bei 53.932 Praxen sind das
+0,32 Azubis je Praxis [S].
+(b) **Belegnachlauf und Mandantenkommunikation**: Kanzleien verbringen einen
+erheblichen Teil ihrer Zeit damit, Mandanten hinterherzutelefonieren
+(„Wo sind die Belege für Mai?"). Das ist **nicht fakturierbare Zeit**.
+(c) Mandantenanrufe mit Standardfragen (Fristen, Vollmachten, Bescheidkopien)
+binden Fachkräfte, die abrechenbar arbeiten könnten.
+
+**5. Schaden [S] – M2 + M4**
+M2 (nicht fakturierbare Kommunikationszeit): Kanzlei mit 8 Mitarbeitenden;
+3 Fachkräfte × 1,25 h/Tag Belegnachlauf und Rückfragen × 220 Tage
+× **75 €/h abrechenbarer Stundensatz** [A]
+```
+3 × 1,25 × 220 × 75 € = 61.875 €/Jahr entgangene fakturierbare Leistung [S]
+```
+M4 (unbesetzte Stelle → abgelehnte Mandate): 1 unbesetzte Fachkraftstelle;
+Umsatz je Fachkraft **110.000 €/Jahr** [A]; DB 40 % [A]
+```
+110.000 × 0,40 = 44.000 €/Jahr entgangener Deckungsbeitrag [S]
+```
+**Gesamt ca. 105.900 €/Jahr** [S] – bei einer 800-T€-Kanzlei über 13 % des
+Umsatzes. **Höchster relativer Schaden aller Dienstleistungszielgruppen.**
+
+**6. Heute** DATEV (Unternehmen online, DMS, Meine Steuern), Kanzleisoftware
+(Addison/Wolters Kluwer, Agenda, Simba, Stotax), teils Mandantenportale
+(getmyinvoices, Candis, Circula), Telefon und E-Mail.
+
+**7. Unzufriedenheit** Belegt nur indirekt über den Nachwuchsengpass [F]
+(„Nachwuchs bleibt Engpass" – Überschrift der Berufsstatistik-Berichterstattung).
+Für konkrete Softwareunzufriedenheit **keine Belege in dieser Session – Lücke**,
+an Agent 11 zu übergeben.
+
+**8. Zahlungsbereitschaft [S]** **400–1.500 €/Monat**;
+größere Kanzleien (20+ Mitarbeitende) **1.500–4.000 €/Monat**.
+Begründung: Der Schaden ist sechsstellig [S]; Kanzleien sind es gewohnt,
+pro Arbeitsplatz und Modul zu zahlen (DATEV-Kostenstruktur); sie **fakturieren
+selbst nach Stundensatz** und verstehen den Wert eingesparter Zeit sofort –
+das ist der ökonomisch reifste Käufer im gesamten Feld.
+**Sehr hohe Zahlungsbereitschaft, gute Bonität, extrem niedriger Zahlungsausfall.**
+
+**9. Kanäle** **DATEV-Marktplatz** (der zentrale Verteilkanal – Aufnahme ist
+selbst ein Projekt); **Deutscher Steuerberaterverband (DStV)** + 15
+Landesverbände; **Deutscher Steuerberatertag** (Jahreskongress);
+Messen/Kongresse **DATEV-Kongress**, **Kanzleiforum**;
+Fachmedien **NWB**, **DATEV magazin**, **Die Steuerberatung**, **stb-web.de**,
+**taxtech.blog**; Kanzleiberater und Softwarehäuser als Reseller.
+
+**10. Verkaufszyklus** **60–150 Tage** [A]. Berufsstand ist entscheidungsträge,
+prüft gründlich, kauft aber dann langfristig. **Sehr niedriger Churn** –
+ein struktureller MRR-Vorteil.
+
+**11. Einwände / Wechselbarrieren**
+- **„Muss DATEV-kompatibel sein"** – ohne DATEV-Schnittstelle kein Geschäft.
+  Das ist eine harte technische Eintrittsbarriere (und zugleich ein Burggraben,
+  wenn man sie überwindet).
+- **§ 203 StGB / § 62a StBerG Verschwiegenheit**: Dienstleister müssen förmlich
+  verpflichtet werden; Auftragsverarbeitung nach Art. 28 DSGVO; Serverstandort DE.
+  Machbar, aber Prüfungsaufwand beim Mandanten.
+- „Meine Mandanten wollen mich persönlich sprechen"
+- Berufsrechtliche Vorsicht bei Werbung und Auslagerung
+- Hohe Wechselbarriere in beide Richtungen: schwer reinzukommen,
+  aber danach **sehr klebrig**
+
+**12. 100k MRR** Bei 800 €/Monat: **125 Kanzleien** = **0,23 %** von 53.932 [S].
+Bei 1.200 €: **83 Kanzleien** [S]. **Exzellente Konzentration**, geringster
+erforderlicher Marktanteil aller Zielgruppen.
+
+**Bewertungsvorbehalt gegenüber Nicos Profil:** Steuerberatung ist ein
+**Anzug-Business** mit Fristen-, Dokumenten- und Einzelfalllogik. Nico lehnt
+„Fristen und Einzelfälle verwalten", „Unterlagen prüfen" und „steifes
+Anzug-Business" ausdrücklich ab. Als *Kunde* ist die Kanzlei attraktiv;
+als *Arbeitsinhalt* liegt sie nahe an Nicos Abneigungen. Das muss Agent 09
+(Persönlichkeits-Fit) prüfen.
+
+---
+
+### ZG 12 – Immobilien- und Hausverwaltungen (WEG- und Mietverwaltung)
+
+**1. Anzahl** **[A] ca. 19.000–23.000 Verwaltungsunternehmen – in dieser Session
+nicht verifiziert** (zu prüfen über VDIV-Branchenbarometer 2025 Vollversion /
+Destatis WZ 68.32).
+
+**2. Größe** [A] typisch 3–25 Mitarbeitende, 500–5.000 verwaltete Einheiten,
+300 T€ – 3 Mio. € Umsatz. Belegt: Verwaltungen erwarteten bis Ende 2025
+ein **Umsatzplus von durchschnittlich 7,8 %** – VDIV Branchenbarometer 2025 [F].
+
+**3. Entscheider** Geschäftsführer/Inhaber, **40–60** [A]; kaufmännisch geprägt,
+denkt in „Kosten je Einheit". Digitalaffinität mittel – aber
+**Investitionsbereitschaft belegt hoch** (s. u.).
+
+**4. Konkretes Problem – die am besten belegte Schmerzlage der gesamten Analyse**
+
+| Befund | Wert | Quelle |
+|---|---|---|
+| Verwaltungen berichten von **Überlastung** | **70 %** (ein Drittel davon stark) | VDIV Branchenbarometer 2025 [F] |
+| … weil offene Stellen unbesetzt bleiben | ja, insbesondere große Verwaltungen | ebd. [F] |
+| Verwaltungen, die **unrentable Mandate abgeben** | **57 %** | ebd. [F] |
+| Verwaltungen, die **gar keine Neukunden mehr annehmen** | **14 %** | ebd. [F] |
+| Verwaltungen, die **hohe Mittel in Automatisierung** stecken | **knapp 80 %**, KI „ganz oben auf der Agenda" | ebd. [F] |
+| Geplante Preisanpassungen 2025 (WEG) | **ca. +12 %**, kleine Objekte bis **+17 %** | ebd. [F] |
+
+Das ist die seltene Konstellation: **belegter Schmerz + belegte
+Investitionsabsicht + belegte Fähigkeit, Kosten weiterzugeben.**
+Operativ: Verwaltungen ertrinken in Eigentümer- und Mieteranrufen
+(Heizung defekt, Nebenkostenabrechnung, Beschluss XY), Handwerkerkoordination,
+Terminorganisation für Eigentümerversammlungen und Schadensmeldungen.
+
+**5. Schaden [S] – M2 + M4**
+Referenzverwaltung: **2.500 WEG-Einheiten**, Vergütung **28 €/Einheit/Monat** [A]
+→ 840.000 € Jahresumsatz [S].
+M2 (Telefon-/Anfragelast): 2.500 Einheiten × 2,5 Kontakte/Jahr = 6.250 Kontakte;
+Ø 6 Minuten inkl. Nachbearbeitung = **625 Stunden/Jahr** × 45 €/h Vollkosten
+```
+625 × 45 € = 28.100 €/Jahr reine Kommunikationskosten [S]
+davon 45 % automatisierbar (Standardauskunft, Terminvergabe, Schadensaufnahme) [A]
+= 12.600 €/Jahr direkt einsparbar [S]
+```
+M4 (unbesetzte Stelle = nicht annehmbare Mandate): Ein Objektbetreuer verwaltet
+**400–500 Einheiten** [A]. Eine unbesetzte Stelle bedeutet
+```
+450 Einheiten × 28 € × 12 = 151.200 € Umsatz, der nicht angenommen werden kann [S]
+× 20 % Nettomarge = 30.240 €/Jahr entgangener Gewinn [S]
+```
+Zusatzschaden (belegt): **57 % geben unrentable Mandate ab** [F] – das ist
+aktiv aufgegebener Umsatz, weil die Bearbeitung zu teuer ist. Wer die
+Bearbeitungskosten je Einheit senkt, macht abgegebene Mandate wieder rentabel.
+**Gesamt ca. 42.800 €/Jahr direkt + 151.200 € blockiertes Wachstum** [S].
+
+**6. Heute** Verwaltersoftware (Haufe PowerHaus, DOMUS 4000/1000, Aareon Wodis,
+immoware24, iX-Haus/CREM, Facilioo), Mieter-/Eigentümerportale
+(**casavi**, **etg24**, Immoware-Portal – belegt zahlungsfähiger Vergleichsmarkt),
+Telefonzentrale, Sprechzeiten, E-Mail-Postfach als Sammelbecken.
+
+**7. Unzufriedenheit** Belegt über die Verhaltensdaten: 57 % geben Mandate ab,
+14 % nehmen keine Neukunden – das sind **Kapitulationssignale**, nicht Meinungen [F].
+Zusätzlich der Marktkommentar „Verwaltersterben" (Branchenblog) [F-schwach].
+Das ist stärker als jede Zufriedenheitsumfrage.
+
+**8. Zahlungsbereitschaft [S]** **500–1.500 €/Monat** bei 1.000–3.000 Einheiten;
+**2.000–6.000 €/Monat** bei > 5.000 Einheiten.
+Alternativ und besser: **Preis je verwalteter Einheit, 0,30–0,80 €/Einheit/Monat**
+[S] – das ist die Kalkulationslogik der Branche und macht den Preis
+**an die Verwaltervergütung weiterreichbar** (die Verwaltung hebt ihre
+Einheitsvergütung um 0,50 € an und ist kostenneutral).
+Bei 2.500 Einheiten × 0,50 € = **1.250 €/Monat** [S].
+Begründung für die Höhe: belegte Preisanpassungen von +12 % [F], belegte
+Automatisierungsinvestitionen von 80 % der Verwaltungen [F], Schaden > 40 T€/Jahr [S].
+
+**9. Vertriebskanäle**
+**VDIV Deutschland** + 11 Landesverbände (Mitgliederkommunikation,
+Verbandszeitschrift, Partnerprogramm); **Deutscher Verwaltertag** (Jahreskongress,
+der Pflichttermin der Branche); Regionalveranstaltungen der Landesverbände;
+Messen **Immobilien-Verwaltertag**, **EXPO REAL** (eher institutionell);
+Fachmedien **IVV immobilien vermieten & verwalten**, **Der Immobilienverwalter**,
+**Immobilienwirtschaft (Haufe)**, **immobilienmanager**;
+**Softwarehäuser als Integrationspartner** (Haufe, DOMUS, Aareon, casavi) –
+und zugleich potenzielle Wettbewerber;
+Verwaltergruppen/Konsolidierer (Matera, ImmoScout-nahe Rollups, Objego)
+als Mehrstandortkunden.
+
+**10. Verkaufszyklus** **45–120 Tage** [A]. Geschäftsführerentscheidung,
+aber typischerweise mit Testphase an einem Objektbestand.
+
+**11. Einwände / Wechselbarrieren**
+- **„Das muss in unsere Verwaltersoftware rein, sonst pflegen wir doppelt"** –
+  der zentrale Einwand. Ohne Schnittstelle zu Haufe/DOMUS/Aareon kein Abschluss.
+- **„Unsere Vergütung ist im Verwaltervertrag gedeckelt"** – jeder Zusatz-Euro
+  geht bis zur nächsten Eigentümerversammlung direkt vom Gewinn ab.
+  Gegenmittel: Preis je Einheit, der in die nächste Vergütungsanpassung
+  eingepreist wird (belegt: +12 % geplant [F]).
+- „Eigentümer wollen ihren Verwalter persönlich sprechen"
+- Haftungsfragen bei Schadensmeldungen (Wasserschaden falsch priorisiert)
+- Beschlusszwang der WEG bei bestimmten Kostenumlagen
+
+**12. 100k MRR** Bei 1.000 €/Monat: **100 Kunden** = ca. **0,45 %** des Marktes [S].
+Bei 1.250 € (Einheitenmodell): **80 Kunden** [S].
+**Beste Kombination aus niedriger Kundenzahl, belegtem Schmerz und belegter
+Investitionsabsicht in der gesamten Analyse.**
+
+---
+
+### ZG 13 – Ambulante Pflegedienste
+
+**1. Anzahl** **17.938–17.976 ambulante Pflegedienste** (Marktdaten/MD-Bericht),
+die **2.275.280 Patienten** versorgen; die amtliche Pflegestatistik weist
+**15.549 Dienste** mit **1.100.672 Patienten** aus – rund 50 % der versorgten
+Patienten fehlen in der amtlichen Statistik [F, pflegemarkt.com].
+**2024: 623 Neugründungen, 292 Schließungen** [F]. Wachstum 2022–2025
+**+10,3 %** [F].
+
+**2. Größe** Rechnerisch **127 Patienten je Dienst** [S: 2.275.280 / 17.938].
+[A] typisch 15–40 Mitarbeitende, 800 T€ – 2,5 Mio. € Umsatz.
+
+**3. Entscheider** Inhaber/Pflegedienstleitung (PDL), **38–55** [A],
+oft aus der Pflege kommend, kaufmännisch weniger geschult, chronisch
+zeitarm. Digitalaffinität niedrig bis mittel.
+
+**4. Konkretes Problem**
+(a) **Tägliches Ausfallmanagement**: eine kranke Pflegekraft zwingt zur
+kompletten Umplanung mehrerer Touren – morgens um 6 Uhr, telefonisch.
+(b) **Nicht abgerechnete Leistungen** durch Dokumentationslücken.
+(c) Anfragen von Angehörigen und Kliniken (Überleitung) werden verpasst –
+und ein nicht angenommener Neupatient ist ein **dauerhafter** monatlicher
+Umsatzverlust, nicht ein einmaliger.
+
+**5. Schaden [S] – M2 + Abrechnungsverlust + M1 mit wiederkehrendem Wert**
+M2 (Ausfall-/Tourenumplanung): PDL 1,5 h/Tag × 250 × 55 €/h Vollkosten
+= **20.600 €/Jahr** [S].
+Abrechnungsverlust: Umsatz 1,2 Mio. € [A] × 3 % nicht abgerechnete Leistungen [A]
+= **36.000 €/Jahr** [S].
+M1 mit Dauerwert: 24 Neuanfragen/Jahr verpasst [A]; 40 % wären Patienten geworden
+= 10 Patienten × **1.400 €/Monat durchschnittlicher Pflegeumsatz** [A] × 12
+= **168.000 €/Jahr wiederkehrender Umsatz** [S] – aber gedeckelt durch die
+Kapazität: der Dienst kann sie mangels Personal ohnehin nicht versorgen.
+**Realistisch ansetzbar sind daher nur M2 + Abrechnung = ca. 56.600 €/Jahr** [S].
+
+**6. Heute** Pflegesoftware (Vivendi/Connext, MediFox DAN, Godo Systems,
+Snap, Curasoft), Dienstplansoftware, Telefon, WhatsApp-Gruppen (datenschutzwidrig,
+aber verbreitet).
+
+**7. Unzufriedenheit** In dieser Session nicht belegt – **Lücke**.
+
+**8. Zahlungsbereitschaft [S]** **200–500 €/Monat**. Deutlich unter dem
+Schadenspotenzial. Begründung:
+- Die Vergütung ist über **SGB XI / Rahmenverträge mit Pflegekassen**
+  reguliert und verhandelt – Kostensteigerungen sind **nicht frei weitergebbar**,
+  sondern erst in der nächsten Vergütungsverhandlung.
+- Der Engpass ist **Personal, nicht Nachfrage** – mehr Anfragen anzunehmen
+  hilft nicht, wenn niemand die Tour fahren kann. Das entwertet den
+  Umsatz-Pitch vollständig.
+- Margen sind dünn; Inhaber sind Pflegefachkräfte, keine Investoren.
+
+**9. Kanäle** **bpa Bundesverband privater Anbieter sozialer Dienste**,
+**ABVP**, **AWO/Diakonie/Caritas** als Träger-Zentralen (Mehrstandortkunden!);
+Messen **ALTENPFLEGE** (Nürnberg/Essen), **Pflegemesse**;
+Fachmedien **Häusliche Pflege**, **CAREkonkret**, **Altenheim**;
+Pflegesoftware-Anbieter als Partner (MediFox DAN, Connext).
+
+**10. Zyklus** **45–120 Tage** [A]; bei Trägern (Diakonie, Caritas)
+**180–360 Tage** wegen Gremien.
+
+**11. Einwände** „Dafür bekommen wir keine Refinanzierung von der Kasse" –
+der ökonomisch entscheidende Einwand; Datenschutz (Gesundheitsdaten, Art. 9 DSGVO);
+MD-Prüfungsrelevanz jeder Dokumentationsänderung; „Unsere Mitarbeiter sind
+über 50 und machen das nicht mit".
+
+**12. 100k MRR** Bei 350 €/Monat: **286 Kunden** = 1,6 % [S] – zu viele
+bei gleichzeitig niedrigem ARPU und regulatorischem Aufwand.
+**Empfehlung: abwerten.** Regulatorik (SGB XI, MD, Art. 9 DSGVO) plus
+gedeckelte Refinanzierung plus hohe Kundenzahl ist die schlechteste
+Kombination der Analyse.
+
+---
+
+### ZG 14 – Speditionen und Fuhrparks
+
+**1. Anzahl** **[A] ca. 6.500–8.000 Speditionen mit relevanter Größe – in dieser
+Session nicht verifiziert.** Belegt: Speditions- und Logistikdienstleister
+beschäftigten **592.622 Personen** (2024) und erzielten **123,1 Mrd. €** Umsatz
+(2023) – DSLV [F]. Logistik insgesamt: drittgrößte Branche Deutschlands,
+**ca. 300 Mrd. €**, **> 3 Mio. Beschäftigte** [F].
+
+**2. Größe** [A] Zielsegment: 20–150 Fahrzeuge, 5–50 Mio. € Umsatz.
+
+**3. Entscheider** Geschäftsführer / Leiter Disposition / IT-Leiter.
+Kaufmännisch, kostengetrieben, gewohnt an Systemkosten (TMS, Telematik, Maut).
+
+**4. Konkretes Problem – belegt**
+
+| Befund | Wert | Quelle |
+|---|---|---|
+| Speditionen, die **Dispositionsstellen nicht besetzen** können | **64 %** | Branchenerhebung Logistik-Fachkräftemangel [F] |
+| Fehlende Berufskraftfahrer in Deutschland | **ca. 70.000**; BGL-Prognose: bald **120.000** | BGL / kraftfahrer.net [F] |
+| Renteneintritte vs. Neueinsteiger je Jahr | **30.000–35.000 aus** vs. **15.000–20.000 ein** | ebd. [F] |
+| Kostendruck Stückgut H1 2025 | Sendungsmengen **−3,2 %**, Depots **+5,8 %** | DSLV-Kostenindex 2025 [F] |
+| Mindestlohn | **13,90 €** ab 01.01.2026, **14,60 €** ab 01.01.2027 | [F] |
+
+Die Disposition ist der Engpass: Anfragen, Statusabfragen („Wo ist meine
+Sendung?"), Terminavisierung, Schadensmeldungen und Fahrerkommunikation
+laufen alle über dieselben wenigen Personen, die zugleich planen sollen.
+
+**5. Schaden [S] – M2 + Leerkilometer + M4**
+M2 (Statusabfragen): 30 Statusanrufe/Tag × 250 × 6 Min = **750 h/Jahr**
+× 48 €/h Vollkosten Disponent = **36.000 €/Jahr** [S]; 70 % davon
+automatisierbar (Sendungsstatus ist in jedem TMS abrufbar) = **25.200 €** [S].
+Leerkilometer: 30 LKW × 110.000 km/Jahr = 3,3 Mio. km; **3 %** vermeidbare
+Leerfahrten durch bessere Disposition [A] × 1,20 €/km Vollkosten
+= **118.800 €/Jahr** [S].
+M4 (nicht besetzbare Dispo-Stelle): belegt bei 64 % der Speditionen [F];
+Folge: 1–2 nicht bediente Kundenanfragen pro Woche → 75/Jahr × 20 % Abschluss
+× 4.500 € Jahresumsatz je Kleinkunde [A] = **67.500 €** [S].
+**Gesamt ca. 211.500 €/Jahr** [S] – der **höchste absolute Schaden** neben
+Autohaus und Bau.
+
+**6. Heute** TMS (cargoSoft, LIS Winsped, Transdata Komalog, Soloplan CarLo,
+Active Logistics), Telematik (Webfleet, TomTom, Trimble, Idem), Frachtenbörsen
+(TIMOCOM, Transporeon), Telefon und E-Mail.
+
+**7. Unzufriedenheit** Belegt über den Personalengpass (64 % [F]) und den
+Kostenindex (steigende Maut-, Personal-, Materialkosten [F]).
+Softwareunzufriedenheit nicht belegt – **Lücke**.
+
+**8. Zahlungsbereitschaft [S]** **800–3.000 €/Monat** bei 20–150 Fahrzeugen.
+Begründung: sechsstelliger Schaden [S]; die Branche zahlt bereits
+**pro Fahrzeug und Monat** für Telematik (typ. 15–40 €/Fzg/Mon [A]) –
+ein Preis „je Fahrzeug" ist kulturell akzeptiert und skaliert automatisch mit
+der Kundengröße. Bei 60 Fahrzeugen × 25 €/Fzg = 1.500 €/Monat [S].
+
+**9. Kanäle** **DSLV** + Landesverbände Spedition und Logistik;
+**BGL Bundesverband Güterkraftverkehr Logistik und Entsorgung**;
+Messe **transport logistic München** (2027) – die europäische Leitmesse;
+Fachmedien **DVZ Deutsche Verkehrs-Zeitung**, **VerkehrsRundschau**,
+**eurotransport/trans aktuell**, **LOGISTIK HEUTE**;
+TMS-Anbieter und Telematikanbieter als Integrationspartner;
+Ladungsverbünde/Systemkooperationen (**IDS Logistik**, **CargoLine**,
+**System Alliance**, **Online Systemlogistik**, **24plus**) – das sind
+**Multiplikatoren mit je 40–200 Mitgliedsspeditionen**, der effizienteste Kanal.
+
+**10. Zyklus** **90–180 Tage** [A]; Systemkooperationen 180–360 Tage [A].
+
+**11. Einwände / Wechselbarrieren**
+- **„Das muss in unser TMS"** – TMS-Integration ist zwingend und pro System
+  unterschiedlich → **Sonderanfertigungsrisiko (K.-o.-Kriterium 4 prüfen!)**
+- „Unsere Kunden sind Industriekunden mit eigenen Portalvorgaben"
+- Margen im Transport sind dünn (2–4 %) → jede Fixkostenerhöhung tut weh
+- Insolvenzrisiko in der Transportbranche → Debitorenprüfung nötig
+- Disponenten fürchten Kontrollverlust und Ersetzung
+
+**12. 100k MRR** Bei 1.500 €/Monat: **67 Kunden** [S].
+**Sehr gute Konzentration.** Aber: Standardisierbarkeit durch TMS-Vielfalt
+gefährdet, und der Verkaufszyklus ist lang.
+
+---
+
+### ZG 15 – Metallbau, Zerspanung, CNC-Lohnfertigung
+
+**1. Anzahl** **[A] Metallbauer im Handwerk ca. 38.000–42.000; CNC-/Zerspanungs-
+Lohnfertiger als Teilmenge ca. 5.000–8.000 – in dieser Session nicht verifiziert**
+(zu prüfen: ZDH-Statistikdatenbank, Bundesverband Metall, VDMA, Destatis WZ 25.62).
+
+**2. Größe** [A] Lohnfertiger typisch 10–80 Mitarbeitende, 1–15 Mio. € Umsatz.
+
+**3. Entscheider** Inhaber/technischer Geschäftsführer, 45–60 [A],
+technisch sehr affin (CAD/CAM, CNC-Steuerungen, Messtechnik), aber
+**kaufmännische Prozesse oft archaisch** (Angebote in Excel).
+
+**4. Konkretes Problem**
+**Angebotserstellung ist der Engpass.** Anfragen kommen als PDF-Zeichnung
+oder STEP-Datei per E-Mail. Die Kalkulation macht der Chef oder ein Techniker –
+abends. Durchlaufzeit bis zum Angebot: **3–10 Arbeitstage** [A].
+Währenddessen liefern Plattformen (**Xometry**, **Laserhub**, **Sourcify**,
+**Protolabs**) in Minuten einen Preis. Folge: Anfragen werden verloren,
+bevor sie kalkuliert sind – oder aus Kapazitätsgründen gar nicht bearbeitet.
+
+**5. Schaden [S] – Angebotsdurchsatz**
+400 Anfragen/Jahr [A]; **30 % werden nicht oder zu spät bearbeitet** [A] = 120;
+Abschlussquote bei rechtzeitiger Bearbeitung 25 % [A];
+Ø Auftragswert 4.500 € [A]
+```
+120 × 0,25 × 4.500 € = 135.000 € entgangener Umsatz/Jahr [S]
+× DB 30 % = 40.500 €/Jahr [S]
+```
+Zusatz M2: 400 Angebote × 1,5 h Kalkulationsaufwand × 85 €/h
+= **51.000 €/Jahr** Kalkulationskosten [S]; 40 % davon automatisierbar
+bei wiederkehrenden Teilefamilien = **20.400 €** [S].
+**Gesamt ca. 60.900 €/Jahr** [S].
+
+**6. Heute** ERP (ams.erp, Sage, ABAS, PSIpenta, Cetec), CAM (hyperMILL,
+Siemens NX, Mastercam), Kalkulation in Excel; Plattformen als
+Fremdkanal (Xometry als Wettbewerber **und** als Auftragsquelle).
+
+**7. Unzufriedenheit** Nicht belegt – **Lücke**. Marktsignal: das Wachstum
+von Xometry/Laserhub belegt, dass Einkäufer die langsame Angebotsabgabe
+klassischer Lohnfertiger nicht akzeptieren [S, Marktbeobachtung].
+
+**8. Zahlungsbereitschaft [S]** **400–1.200 €/Monat**.
+Begründung: fünfstelliger Schaden, kaufmännisch rechenbarer Nutzen,
+gewohnte ERP-Kosten. Aber: Kalkulationslogik ist **je Betrieb individuell**
+(Maschinenstundensätze, Rüstzeiten, Materialaufschläge) →
+**Sonderanfertigungsrisiko hoch – K.-o.-Kriterium 4 prüfen.**
+
+**9. Kanäle** **Bundesverband Metall (BVM)** + Landesinnungsverbände;
+**VDMA** (eher für größere); Messen **AMB Stuttgart**, **EMO Hannover**,
+**Blechexpo Stuttgart**, **EuroBLECH Hannover**;
+Fachmedien **MM MaschinenMarkt**, **blechnet**, **Fertigung**,
+**mav – Innovation in der spanenden Fertigung**;
+Werkzeug-/Maschinenhändler (Hoffmann Group, Hahn+Kolb) als Partner.
+
+**10. Zyklus** **60–150 Tage** [A].
+
+**11. Einwände** „Unsere Kalkulation ist unser Betriebsgeheimnis";
+„Jedes Teil ist anders"; ERP-Integration; Angst vor Preistransparenz.
+
+**12. 100k MRR** Bei 700 €/Monat: **143 Kunden** [S] – bei geschätzt
+5.000–8.000 Lohnfertigern wären das **1,8–2,9 % Marktanteil** [S].
+Machbar, aber Standardisierbarkeit ist der Schwachpunkt.
+
+---
+
+### ZG 16 – Entsorgungs- und Containerdienste
+
+**1. Anzahl** **ca. 11.000 Unternehmen** in der Entsorgungswirtschaft mit
+**ca. 280.000 Beschäftigten** und **ca. 80 Mrd. €** Jahresumsatz –
+BMUV, „Abfallwirtschaft in Deutschland 2025" [F].
+Reine **Containerdienste** als Teilmenge: **[A] ca. 1.500–3.000 – nicht verifiziert.**
+
+**2. Größe** [A] Containerdienst typisch 8–40 Mitarbeitende, 2–15 Mio. € Umsatz,
+5–30 Fahrzeuge.
+
+**3. Entscheider** Inhaber/Geschäftsführer, 40–60 [A], praktisch orientiert,
+mittlere Digitalaffinität.
+
+**4. Konkretes Problem**
+**Die Auftragsannahme ist fast vollständig telefonisch und hochgradig
+standardisiert**: Containergröße, Abfallart, Stellplatz-Adresse, Stell- und
+Abholtermin, Ansprechpartner. Genau diese Standardisierung macht die Zielgruppe
+technisch attraktiv – und die Nichterreichbarkeit teuer, weil der Anrufer
+(Bauherr, Handwerker, Privatkunde) sofort den nächsten Anbieter wählt.
+Zweitproblem: Disposition der Abrollkipper und Nachweisführung (eANV).
+
+**5. Schaden [S] – M1, hohe Umwandlungsquote**
+A = 40 · T = 250 · u = 20 % · n = 60 % (fast jeder Anruf ist eine Bestellung)
+· v = 50 % · c = 75 % · W = 380 € [A]
+```
+40 × 250 = 10.000 → ×0,20 = 2.000 → ×0,60 = 1.200 → ×0,50 = 600 → ×0,75 = 450
+450 × 380 € = 171.000 € entgangener Umsatz/Jahr [S] · DB 35 % = 59.850 €/Jahr [S]
+```
+**Höchste Umwandlungsquote aller Zielgruppen** – weil der Anruf selbst schon
+die Bestellung ist. Das ist der technisch sauberste Anwendungsfall
+für automatisierte Auftragsannahme im gesamten Feld.
+
+**6. Heute** Branchensoftware (**tegos enwis**, **RESY**, **ZEUS**,
+**Abfallmanager**, **Recy/Recycling-Software**), Telefon,
+teils Online-Shops für Containerbestellung (Containerdienst-Portale wie
+**Containerdienst.de**, **Schuttflix** – letzteres ein finanzierter
+Plattformwettbewerber).
+
+**7. Unzufriedenheit** Nicht belegt – **Lücke**.
+**Friedhofsprüfung nötig:** Schuttflix und ähnliche Plattformen haben versucht,
+die Bestellung zu digitalisieren; die Marktreaktion ist zu prüfen.
+
+**8. Zahlungsbereitschaft [S]** **400–1.000 €/Monat**.
+Begründung: hoher Schaden, klar rechenbare Auftragswerte, gewohnte
+Software- und Telematikkosten.
+
+**9. Kanäle** **BDE Bundesverband der Deutschen Entsorgungs-, Wasser- und
+Rohstoffwirtschaft**, **bvse** (mittelständisch geprägt – der bessere Kanal),
+**VKU** (kommunal); Messe **IFAT München** (2026, Weltleitmesse);
+Fachmedien **EUWID Recycling und Entsorgung**, **RECYCLING magazin**,
+**ENTSORGA-Magazin**; Branchensoftware-Anbieter (tegos) als Partner.
+
+**10. Zyklus** **30–90 Tage** [A].
+
+**11. Einwände** „Unsere Kunden sind Stammkunden vom Bau";
+„Preisauskunft am Telefon ist Verhandlungssache" (Preisdifferenzierung nach
+Kunde – eine Automatisierung darf nicht die Preisstruktur offenlegen);
+Abfallrecht/Nachweisführung; Branchensoftware-Integration.
+
+**12. 100k MRR** Bei 650 €/Monat: **154 Kunden** [S].
+Bei geschätzt 1.500–3.000 Containerdiensten wären das **5–10 % Marktanteil** –
+**zu hoch. Konzentrationsrisiko: Der Markt ist zu klein für 100k MRR allein.**
+Nur als margenstarkes Zweitsegment neben einer größeren Zielgruppe sinnvoll.
+
+---
+
+### ZG 17 – Garten- und Landschaftsbau (GaLaBau)
+
+**1. Anzahl** **19.898 landschaftsgärtnerische Fachbetriebe** (2025), davon
+**4.254 in den elf GaLaBau-Landesverbänden des BGL organisiert** – BGL-
+Branchenstatistik 2025 [F].
+
+**2. Größe** Umsatz **11,11 Mrd. €** (2025, **+4,3 %** gegenüber 10,65 Mrd. €),
+**131.746 Beschäftigte** – Höchststand; **16. Wachstumsjahr in Folge** – BGL [F].
+Rechnerisch **558.000 € Umsatz je Betrieb**, **6,6 Beschäftigte je Betrieb** [S].
+
+**3. Entscheider** Inhaber/Landschaftsgärtnermeister, 40–58 [A],
+mittlere Digitalaffinität.
+
+**4. Konkretes Problem** Extreme **Saisonalität**: Februar bis Mai kommt die
+Masse der Privatkundenanfragen, genau dann sind alle Kolonnen draußen und das
+Büro einfach besetzt. Angebote werden mit Wochen Verzug erstellt.
+Zusätzlich: Pflegeverträge (wiederkehrend, margenstark) werden nicht
+systematisch verkauft.
+
+**5. Schaden [S] – M1, saisonal gewichtet**
+Saison (80 Arbeitstage Feb–Mai): A = 25 · u = 30 %;
+Rest (140 Tage): A = 10 · u = 15 %
+```
+Saison: 25 × 80 = 2.000 → ×0,30 = 600
+Nebensaison: 10 × 140 = 1.400 → ×0,15 = 210
+Summe unbeantwortet = 810
+× n 30 % Neuanfragen = 243 → × v 50 % = 121 → × c 25 % = 30 Aufträge
+30 × 4.500 € Ø Auftragswert [A] = 135.000 € entgangener Umsatz/Jahr [S]
+× DB 28 % = 37.800 €/Jahr [S]
+```
+Zusatz: 200 Bestandskunden ohne Pflegevertrag [A]; 10 % abschließbar bei
+aktiver Ansprache = 20 × 1.200 €/Jahr = **24.000 € wiederkehrender Umsatz** [S].
+
+**6. Heute** Handwerkersoftware/GaLaBau-Software (DATAflor, KWP,
+Streit, ProAgrar), Handy, Bürokraft in Teilzeit.
+
+**7. Unzufriedenheit** Nicht belegt – **Lücke**.
+**Wichtiges Gegensignal: Die Branche wächst seit 16 Jahren [F].** Wachsende
+Branchen haben weniger Leidensdruck bei „verpassten Anfragen", weil sie
+ohnehin ausgelastet sind. Das **senkt** die Dringlichkeit erheblich,
+anders als bei SHK/Elektro/Dachdecker mit rückläufigen Umsätzen [F].
+
+**8. Zahlungsbereitschaft [S]** **150–350 €/Monat**.
+Gedämpft durch Betriebsgröße (6,6 Beschäftigte [S]) und durch die Tatsache,
+dass Auslastung nicht das Problem ist. Saisonalität bedroht zusätzlich die
+MRR-Stabilität (Kündigungswelle im Herbst).
+
+**9. Kanäle** **BGL** + 11 Landesverbände (nur 4.254 von 19.898 Betrieben
+organisiert [F] – der Verbandskanal deckt nur **21 %** des Marktes ab, das ist
+eine wichtige Einschränkung); Messe **GaLaBau Nürnberg** (2026, Leitmesse);
+Fachmedien **DEGA GALABAU**, **Neue Landschaft**, **TASPO**;
+Baumaschinen-/Baustoffhändler und Pflanzengroßhandel als Partner.
+
+**10. Zyklus** **14–45 Tage** [A], stark saisonabhängig
+(Vertriebsfenster faktisch Oktober–Januar).
+
+**11. Einwände** „Wir sind bis August ausgebucht"; Saisonalität;
+Preissensibilität; „Meine Kunden kommen über Empfehlung".
+
+**12. 100k MRR** Bei 250 €/Monat: **400 Kunden** = **2,0 %** des Marktes [S].
+Zu viele Kunden, zu niedriger ARPU, zusätzlich Saison-Churn. **Abwerten.**
+
+---
+
+### ZG 18 – Facility Management / Gebäudedienstleister
+
+**1. Anzahl** **[A] ca. 25.000–30.000 Unternehmen im Gebäudeservice – in dieser
+Session nicht verifiziert.** Belegt: die **25 führenden Facility-Service-
+Unternehmen** erzielten **18,7 Mrd. € Umsatz** (2024, **+7,8 %**) und decken
+**mehr als 30 % des deutschen Facility-Service-Marktes** ab – Lünendonk-Studie
+2025 [F]. Beschäftigte bei Facility-Service-Anbietern: **291.792** (2024, +1,6 %) [F].
+Für 2026 prognostizieren die Anbieter **+8–9 %** Umsatzwachstum, gestützt vom
+Infrastruktur-Sondervermögen des Bundes [F].
+
+**2. Größe** Hoch konzentriert: Top 25 = >30 % Marktanteil [F].
+Mittelständisches Zielsegment: [A] 5–50 Mio. € Umsatz, 100–800 Mitarbeitende.
+
+**3. Entscheider** Geschäftsführung, Leiter Operations, IT-Leitung.
+Professionelle Beschaffung, Ausschreibungsprozesse.
+
+**4. Konkretes Problem** **Störmeldungsannahme und SLA-Einhaltung.**
+Ein FM-Dienstleister betreibt eine Störmeldezentrale; verpasste oder zu spät
+bearbeitete Meldungen führen zu **SLA-Verletzungen mit Vertragsstrafen**.
+Zusätzlich: Nachweisführung gegenüber dem Auftraggeber, Einsatzsteuerung
+verteilter Objektteams, hohe Personalfluktuation.
+Belegt als Branchenherausforderung: **Personalmangel, Verzögerungen bei der
+Digitalisierung, steigende ESG-Anforderungen** – Lünendonk 2025 [F].
+
+**5. Schaden [S] – SLA-Pönalen + M2**
+FM-Dienstleister mit 15 Mio. € Umsatz [A]:
+SLA-Pönalen typisch **0,5–2 % des Auftragswerts** [A]
+```
+15.000.000 × 0,01 (Mittelwert 1 %) = 150.000 €/Jahr Vertragsstrafen [S]
+davon 40 % durch bessere Meldungsannahme/Eskalation vermeidbar = 60.000 €/Jahr [S]
+```
+M2 (Störmeldezentrale): 120 Meldungen/Tag × 250 × 4 Min = 2.000 h/Jahr
+× 42 €/h = **84.000 €/Jahr**; 50 % automatisierbar = **42.000 €** [S].
+**Gesamt ca. 102.000 €/Jahr** [S].
+
+**6. Heute** CAFM-Systeme (Planon, pit-FM, Spartacus, IMSWARE, Wave,
+Archibus), Ticketsysteme, eigene Leitstellen, teils 24/7-Callcenter
+(bereits bezahlt – ein belegter Vergleichsmarkt).
+
+**7. Unzufriedenheit** Belegt: „Verzögerungen in der Digitalisierung" als
+zentrale Herausforderung – Lünendonk 2025 [F].
+
+**8. Zahlungsbereitschaft [S]** **1.000–5.000 €/Monat** im Mittelstand;
+Konzern-FM **10.000 €+**. Begründung: sechsstelliger Schaden,
+professionelle Beschaffung, bereits bezahlte Leitstellen als Preisanker.
+
+**9. Kanäle** **GEFMA** (Deutscher Verband für Facility Management),
+**RealFM**, **BIV Bundesinnungsverband des Gebäudereiniger-Handwerks**;
+Messen **INservFM Frankfurt**, **Servparc**;
+Fachmedien **Der Facility Manager**, **facility-management.de**,
+**Lünendonk-Listen** (Adressquelle der Top-Anbieter);
+CAFM-Anbieter als Partner.
+
+**10. Zyklus** **150–360 Tage** [A] – Ausschreibungen, IT-Sicherheitsprüfungen,
+Datenschutz-Audits. **Längster Zyklus der Analyse.**
+
+**11. Einwände** „Wir haben eine eigene Leitstelle"; Ausschreibungszwang;
+IT-Sicherheitsanforderungen (ISO 27001, teils TISAX);
+Integration in CAFM; „unsere Auftraggeber schreiben das System vor".
+
+**12. 100k MRR** Bei 2.500 €/Monat: **40 Kunden** [S] – **beste
+Konzentration der gesamten Analyse.** Aber: längster Verkaufszyklus,
+höchste Einstiegshürden, und die Top-25-Konzentration bedeutet, dass wenige
+Großkunden das Modell dominieren würden → **Klumpenrisiko** und Abhängigkeit
+von Konzernen (Nicos Anti-Kriterium).
+
+---
+
+### ZG 19 – Landwirtschaftliche Lohnunternehmer
+
+**1. Anzahl** **ca. 2.000 Lohnunternehmen** mit **30.000 Mitarbeitenden** sind im
+**BLU** (12 Landesverbände/-gruppen) organisiert – BLU [F].
+Gesamtzahl je nach Definition höher; **[A] 3.000–5.000 insgesamt – nicht verifiziert.**
+
+**2. Größe** Rechnerisch **15 Mitarbeitende je Betrieb** [S: 30.000/2.000];
+[A] Umsatz 800 T€ – 4 Mio. €.
+
+**3. Entscheider** Inhaber, 38–58 [A], **technikaffin** (Präzisionslandwirtschaft,
+GPS-Lenksysteme, ISOBUS, Telemetrie sind Alltag) – deutlich digitaler als das
+Bauhandwerk.
+
+**4. Konkretes Problem** **Extreme Saisonspitzen** (Silage, Ernte, Gülle,
+Aussaat): In einem 10-Tage-Wetterfenster rufen 200 Landwirte an, alle wollen
+sofort. Die Einsatzplanung passiert im Kopf des Inhabers, nachts.
+Dokumentation der erbrachten Leistungen (ha, m³, Stunden) für die Abrechnung
+ist unvollständig → **Abrechnungsverluste**.
+
+**5. Schaden [S] – Abrechnungsverlust + M2**
+Umsatz 1,8 Mio. € [A]; **4 % nicht oder zu niedrig abgerechnete Leistungen**
+(fehlende Stundenzettel, vergessene Zuschläge, Rüstzeiten) [A]
+```
+1.800.000 × 0,04 = 72.000 €/Jahr [S]
+```
+M2 (Einsatzplanung/Telefon in der Saison): 60 Tage × 3 h/Tag × 85 €/h
+Inhaber-Vollkosten = **15.300 €/Jahr** [S].
+**Gesamt ca. 87.300 €/Jahr** [S].
+
+**6. Heute** Ackerschlagkarteien und Lohnunternehmer-Software
+(**agrirouter**, **365FarmNet**, **NEXAT/Farmpilot**, **LU-Soft**,
+**Agrarbüro**), Papier-Stundenzettel, WhatsApp.
+
+**7. Unzufriedenheit** Nicht belegt – **Lücke**.
+
+**8. Zahlungsbereitschaft [S]** **300–800 €/Monat**.
+Begründung: fünfstelliger Schaden, technikaffiner Käufer, gewohnte
+Maschinen-/Softwareinvestitionen (ein Häcksler kostet sechsstellig – die
+Preisanker sind hoch). Aber: **extreme Saisonalität des Cashflows**
+(Zahlungen kommen nach der Ernte) → Jahresvorauszahlung anbieten.
+
+**9. Kanäle** **BLU** + 12 Landesverbände/-gruppen (erreicht ~2.000 Betriebe
+direkt [F] – **hohe Kanalabdeckung**); Messe **Agritechnica Hannover** (2027,
+Weltleitmesse); Fachmedien **Lohnunternehmen (Beckmann Verlag)**, **profi**,
+**traction**, **top agrar**; Landmaschinenhändler und -hersteller
+(Claas, John Deere, Fendt/AGCO, Krone) als Partner.
+
+**10. Zyklus** **30–90 Tage** [A], Vertriebsfenster Winter (Nov–Feb).
+
+**11. Einwände** „In der Saison habe ich keine Zeit für Software";
+Funknetzabdeckung auf dem Feld; „meine Fahrer sind keine Techniker";
+Saisonalität des Cashflows.
+
+**12. 100k MRR** Bei 500 €/Monat: **200 Kunden** = **10 % aller BLU-Mitglieder** [S].
+**Marktanteil viel zu hoch. Der Markt ist mit ~2.000–5.000 Betrieben zu klein
+für 100k MRR.** Nur als Nische mit sehr hohem ARPU oder als Zusatzsegment.
+
+---
+
+### ZG 20 – Sicherheitsdienstleister
+
+**1. Anzahl** **4.517 Unternehmen** in der privaten Sicherheitswirtschaft;
+zusätzlich **666 klassische Detekteien** (fast halbiert seit 2014: 1.211).
+**Der BDSW hat 1.029 Mitgliedsunternehmen** – BDSW [F].
+
+**2. Größe** **290.871 Beschäftigte** (Stichtag 30.06.2025) – Höchststand,
+davon **276.987** in privaten Sicherheits- und Wachdiensten;
+Branchenumsatz **14,02 Mrd. €** (2024), Prognose **14,75 Mrd. €** (2025) – BDSW [F].
+Die **Top 25** erzielten **5.628,1 Mio. €** sicherheitsrelevanten Umsatz
+(GJ 2025) = ca. **40 % des Marktvolumens** mit **97.400 Beschäftigten**
+(ca. ein Drittel aller Branchenbeschäftigten) – Lünendonk-Liste 2025 [F].
+Rechnerisch: **3,27 Mio. € Umsatz** und **64 Beschäftigte je Unternehmen** [S].
+
+**3. Entscheider** Geschäftsführer / Einsatzleiter / Disponent.
+Digitalaffinität niedrig bis mittel; belegtes Branchensignal:
+„Sicherheitsdienstleister werden digital" (Lünendonk) [F] – der Wandel läuft gerade.
+
+**4. Konkretes Problem** **Schicht- und Ausfalldisposition.** Ein kurzfristiger
+Ausfall (Krankheit) muss binnen Minuten nachbesetzt werden, sonst greift eine
+Vertragsstrafe oder der Objektschutz ist nicht erfüllt. Das passiert
+telefonisch, oft nachts, durch den Einsatzleiter. Zusätzlich: hohe Fluktuation,
+Nachweisführung (Bewachungsverordnung, Sachkundenachweis § 34a GewO),
+Dokumentation von Streifengängen.
+
+**5. Schaden [S] – Ausfallnachbesetzung + M2**
+Unternehmen mit 200 Mitarbeitenden [A]:
+Ausfälle 250/Jahr [A] × 8 h × **14 € Mehrkosten je Stunde**
+(Überstunden-, Nacht-, Feiertagszuschläge, Subunternehmereinsatz) [A]
+```
+250 × 8 × 14 € = 28.000 €/Jahr [S]
+```
+M2 (Dispositionsaufwand): 2 h/Tag × 365 × 45 €/h = **32.850 €/Jahr** [S];
+60 % automatisierbar (Verfügbarkeitsabfrage, Schichtangebot, Bestätigung)
+= **19.700 €** [S].
+Vertragsstrafen bei Nichtbesetzung: [A] 15.000 €/Jahr.
+**Gesamt ca. 62.700 €/Jahr** [S].
+
+**6. Heute** Dienstplan-/Dispositionssoftware (**Securitas-Eigenentwicklungen**,
+**Sicherheitsdienst-Software**, **Papershift**, **Plano**, **GFOS**),
+Telefon/WhatsApp-Gruppen, Excel.
+
+**7. Unzufriedenheit** Belegt indirekt: „Fachkräftemarkt zeigt erste Entspannung"
+bei gleichzeitig verdoppeltem Umsatz [F] – die Branche wächst schneller als
+ihre Prozesse. Lünendonk-Studientitel „Sicherheitsdienstleister werden digital" [F].
+
+**8. Zahlungsbereitschaft [S]** **400–1.200 €/Monat** im Mittelstand;
+Top-25-Unternehmen haben Eigenentwicklungen und sind schwer angreifbar.
+Begründung: Personalkostenanteil >75 %, jede Effizienz an dieser Stelle zählt;
+aber die Branche ist **preisgetrieben** (Ausschreibungen nach billigstem Angebot)
+und arbeitet mit sehr dünnen Margen.
+
+**9. Kanäle** **BDSW** (1.029 Mitglieder [F]) + **BDGW** (Geld/Wert);
+Messe **Security Essen** (2026, Weltleitmesse);
+Fachmedien **PROTECTOR**, **WiK Zeitschrift für Sicherheit in der Wirtschaft**,
+**Sicherheit.info**; Lünendonk-Liste als Adressquelle für Großanbieter.
+
+**10. Zyklus** **60–150 Tage** [A].
+
+**11. Einwände** „Bei uns ist alles Objekt-individuell"; Tarifbindung und
+Betriebsrat bei größeren Anbietern; § 34a-GewO-Nachweise;
+extremer Preisdruck durch Ausschreibungen.
+
+**12. 100k MRR** Bei 700 €/Monat: **143 Kunden** = **3,2 %** aller
+4.517 Unternehmen [S]. Bei 4.517 Unternehmen und starker
+Top-25-Konzentration ist der adressierbare Mittelstand klein.
+**Konzentrationsrisiko – nur als Zweitsegment.**
+
+---
+
+### ZG 21 – Küchen-/Möbelstudios und Fensterbauer
+
+**1. Anzahl** **[A] Küchenstudios ca. 3.000–4.500; Fensterbau-Fachbetriebe
+ca. 4.000–6.000; Tischlereien/Schreinereien ca. 33.000–38.000 – in dieser
+Session nicht verifiziert** (zu prüfen: Verband der Küchenspezialisten,
+Verband Fenster + Fassade (VFF), Tischler Schreiner Deutschland, ZDH-Datenbank).
+
+**2. Größe** [A] Küchenstudio 3–12 Mitarbeitende, 800 T€ – 4 Mio. € Umsatz;
+Fensterbauer 8–40 Mitarbeitende, 1,5–12 Mio. €.
+
+**3. Entscheider** Inhaber, 42–60 [A], vertrieblich denkend
+(Küchenstudios sind faktisch Einzelhandel mit Beratungsverkauf).
+
+**4. Konkretes Problem** **Sehr hohe Auftragswerte bei sehr wenigen Kontakten.**
+Ein Küchenkauf hat einen Wert von 12.000–25.000 € [A]. Ein verpasster
+Beratungstermin ist damit außergewöhnlich teuer. Gleichzeitig ist das Studio
+während der Beratungsgespräche telefonisch nicht erreichbar –
+Beratung dauert 2–3 Stunden, in denen niemand ans Telefon geht.
+Zweitproblem: **Nachfassen bei abgegebenen Planungen** findet kaum statt,
+obwohl die Abschlussquote dadurch massiv steigt.
+
+**5. Schaden [S] – M1, hoher Auftragswert**
+A = 15 · T = 250 · u = 25 % · n = 30 % · v = 55 % · c = 25 %
+· W = 15.000 € Küchenauftrag [A]
+```
+15 × 250 = 3.750 → ×0,25 = 937 → ×0,30 = 281 → ×0,55 = 154 → ×0,25 = 38 Aufträge
+```
+Das ist zu hoch gegriffen; ein Studio verkauft real 80–200 Küchen/Jahr [A].
+Realistischer, an der Terminlogik ausgerichtet:
+```
+2 verpasste Beratungstermine/Woche × 46 = 92 Termine
+× 55 % endgültig verloren = 50 → × 30 % Abschlussquote = 15 Küchen
+15 × 15.000 € = 225.000 € entgangener Umsatz/Jahr [S] · DB 30 % = 67.500 € [S]
+```
+Zusatz: 250 abgegebene Planungen/Jahr [A]; 50 % ohne Nachfassen;
+davon 8 % kämen bei systematischem Nachfassen doch = 10 Küchen × 15.000 €
+= **150.000 € Umsatz**, DB 30 % = **45.000 €/Jahr** [S].
+**Gesamt ca. 112.500 € entgangener Deckungsbeitrag/Jahr** [S] –
+**höchster DB-Schaden je Einzelbetrieb außerhalb von Autohaus/Spedition.**
+
+**6. Heute** Küchenplanungssoftware (**Carat**, **Winner Flex**, **KPS**),
+Verbundgruppen-Systeme, Terminkalender, Telefon.
+
+**7. Unzufriedenheit** Nicht belegt – **Lücke**.
+Marktkontext: Küchen- und Möbelhandel leidet 2024/25 unter Konsumzurückhaltung
+und der Bau-/Umzugsflaute → sinkende Frequenz **erhöht** den Wert jedes
+einzelnen Kontakts erheblich. Das ist ein starkes Timing-Argument [S].
+
+**8. Zahlungsbereitschaft [S]** **400–1.000 €/Monat**.
+Begründung: Ein einziger zusätzlich gewonnener Küchenauftrag pro Jahr
+(4.500 € DB) refinanziert 375 €/Monat vollständig. Diese Rechnung ist
+für einen Küchenverkäufer sofort einleuchtend – **die einfachste
+ROI-Argumentation der gesamten Analyse.**
+
+**9. Kanäle** **Verbundgruppen als dominanter Kanal**: **Der Kreis**,
+**MHK Group**, **DER KREIS**, **Küchengilde**, **Einrichtungspartnerring VME**,
+**Begros**, **Garant** – über eine Verbundgruppe erreicht man 300–1.500
+Studios auf einmal; **Verband der Küchenspezialisten (VdDK)**;
+Messen **area30 / Küchenmeile A30** (Löhne), **imm cologne**,
+**LivingKitchen**; Fachmedien **Küchenplaner**, **KÜCHE**, **möbel kultur**,
+**Der Küchenprofi**.
+Fensterbau separat: **VFF Verband Fenster + Fassade**, Messe
+**Fensterbau Frontale Nürnberg** (2026), Fachmedien **GW Glaswelt**, **BM**.
+
+**10. Zyklus** **21–60 Tage** [A]; über Verbundgruppe 120–240 Tage
+für den Rahmenvertrag [A].
+
+**11. Einwände** „Beratung ist Vertrauenssache, das kann keine Maschine";
+„Meine Verkäufer rufen selbst zurück" (tun sie nicht);
+Verbundgruppen-Systemvorgaben; kleine Marktgröße.
+
+**12. 100k MRR** Bei 600 €/Monat: **167 Kunden** [S].
+Bei geschätzt 3.000–4.500 Küchenstudios = **3,7–5,6 % Marktanteil** –
+**zu hoch als Einzelmarkt**; zusammen mit Fensterbauern und Möbelhäusern
+(gemeinsame Logik: hoher Auftragswert, Beratungsverkauf, Studio) wird
+der adressierbare Markt aber auf ~10.000 Betriebe erweitert → 1,7 % [S].
+**Als kombiniertes Segment „beratungsintensiver Fachhandel" tragfähig.**
+
+---
+
+### ZG 22 – Energieberater und PV-Installateure
+
+**1. Anzahl** **9.203 Photovoltaik-Installateure** (Stand Juni 2026, Adressdatenbank
+listflix) [F-schwach – kommerzielle Adressdatenbank, keine Verbandsstatistik];
+der **Bundesverband des Deutschen Solarhandwerks (BDSH)** schätzt
+**8.000 PV-Unternehmen**; andere Quellen nennen **6.300** [F].
+**46,1 % sind Kleinstunternehmen**, **76,7 % im Handelsregister eingetragen**;
+Bayern führt mit **2.011** Installateuren [F].
+Energieberater: **[A] ca. 13.000–15.000 Energieeffizienz-Experten in der
+dena-Expertenliste – nicht verifiziert.**
+Kontext: **4,8 Mio. Photovoltaikanlagen** waren zum Jahresende 2025 in
+Deutschland installiert (Mitte 2025: 4,2 Mio.) – Destatis [F].
+
+**2. Größe** [A] PV-Betrieb typisch 4–25 Mitarbeitende, 600 T€ – 6 Mio. €;
+Energieberater häufig Einzelunternehmer oder Kleinstbüro (1–5 Personen).
+
+**3. Entscheider** Inhaber, 32–50 [A] – **die jüngste und digitalste
+Entscheidergruppe der gesamten Analyse**; viele Betriebe wurden erst
+2020–2023 gegründet.
+
+**4. Konkretes Problem – und warum es das falsche Problem ist**
+Belegt: „Die vollen Auftragsbücher aus dem Boomjahr 2023 sind abgearbeitet –
+nun bleibt vielerorts die Nachfrage nach Neuaufträgen aus" [F].
+Das heißt: Das Problem ist **nicht** „wir verlieren Anfragen", sondern
+**„es kommen keine Anfragen mehr"**. Das ist ein **völlig anderes Produkt**
+(Leadgenerierung / Marketing) mit völlig anderer Ökonomie:
+erfolgsabhängig, margenschwach, austauschbar, und in einem Markt mit
+Insolvenzwelle.
+
+**5. Schaden [S]** Ein Anrufannahme-Produkt hat hier den geringsten Wert
+aller Zielgruppen, weil das Anrufaufkommen selbst eingebrochen ist.
+Für ein Leadprodukt: Ein PV-Betrieb braucht 15 Aufträge/Monat à 18.000 €;
+bei 25 % Abschlussquote sind das 60 qualifizierte Leads/Monat.
+Fehlen davon 20, entgehen 5 Aufträge × 18.000 € = 90.000 €/Monat Umsatz [S] –
+theoretisch riesig, praktisch aber ein **Leadkosten-Wettbewerb**, in dem
+Maschine A gegen Aroundhome, DAA, Selfmade Energy, Enpal und
+Facebook-Ads-Agenturen antreten müsste.
+
+**6. Heute** PV-Planungssoftware (PV*SOL, Solar-Planit, Sunny Design),
+Leadportale (**DAA Deutsche Auftragsagentur**, **Aroundhome**,
+**Selfmade Energy**, **Solarwatt-Partnerprogramme**), Marketingagenturen.
+
+**7. Unzufriedenheit** Belegt: Nachfrageeinbruch [F].
+**Friedhofswarnung: Der PV-Markt hat 2024/25 eine Insolvenzwelle erlebt**
+(u. a. Solarwatt-Restrukturierung, zahlreiche regionale Installateure).
+Debitorenrisiko und Churn wären extrem hoch.
+
+**8. Zahlungsbereitschaft [S]** **150–400 €/Monat** für Prozesssoftware –
+und faktisch **null** für Prozessoptimierung, solange die Auftragsbücher leer
+sind. Für Leads: **hoch, aber erfolgsabhängig** (60–250 € je qualifiziertem Lead
+[A]) – das ist aber kein MRR-Modell, sondern Transaktionsgeschäft
+und verstößt gegen Pflichtkriterium 1.
+
+**9. Kanäle** **BSW-Solar**, **BDSH**, **DGS**; Messe **Intersolar Europe
+München** (2026); Fachmedien **pv magazine**, **Solarserver**, **photovoltaik**;
+Modul-/Wechselrichterhersteller-Partnerprogramme (SMA, Fronius, Huawei,
+Meyer Burger); Energieberater über **GIH Bundesverband**, **DEN**,
+**dena-Expertenliste**, Fachmedium **Gebäude-Energieberater**.
+
+**10. Zyklus** **14–45 Tage** [A] – schnell, weil junge Entscheider.
+
+**11. Einwände** „Ich brauche keine Anrufannahme, ich brauche Kunden";
+Zahlungsfähigkeit; hoher Churn; „bringt mir das Aufträge? Dann zahle ich
+pro Auftrag, nicht monatlich".
+
+**12. 100k MRR** Bei 250 €/Monat: **400 Kunden** = **4,3–6,3 %** des Marktes [S].
+**Ausschluss als Kernzielgruppe.** Falsches Problem, instabile Branche,
+Insolvenzrisiko, erfolgsabhängige Preiserwartung.
+
+---
+
+## 3. Bewertung und Ranking
+
+### 3.1 Bewertungslogik
+Der Auftrag verlangt: **Problemstärke × Zahlungsbereitschaft × Erreichbarkeit ×
+Delegierbarkeit der Betreuung**. Jede Dimension 0–10, multiplikativ (nicht additiv),
+weil eine Null in einer Dimension die Zielgruppe tatsächlich wertlos macht –
+ein riesiges Problem ohne Budget ist kein Geschäft.
+
+Definitionen:
+- **Problemstärke** – Höhe und Wiederkehr des Schadens relativ zum Betriebsergebnis,
+  plus Dringlichkeit (Konjunkturlage).
+- **Zahlungsbereitschaft** – belegter/ableitbarer ARPU **und** Weitergebbarkeit
+  der Kosten an Dritte.
+- **Erreichbarkeit** – Existenz konzentrierter Kanäle (Verbände, Verbundgruppen,
+  Ketten, Softwarepartner) und Kaltakquisefähigkeit.
+- **Delegierbarkeit der Betreuung** – kann eine angelernte Kraft Onboarding und
+  laufende Betreuung in ≤ 6 Wochen übernehmen (Pflichtkriterium 4 und
+  Nicos Anti-Kriterien)? Abzug für Fachwissen, Regulatorik, Individualisierung.
+
+### 3.2 Gesamtranking (alle 22 Zielgruppen)
+
+| Rang | Zielgruppe | Problem | Zahlung | Erreichbar | Delegierbar | Score (÷1000) |
+|---|---|---|---|---|---|---|
+| **1** | **Immobilien-/Hausverwaltungen** | 9 | 8 | 9 | 8 | **5,18** |
+| **2** | **Autohäuser (fabrikatsgebunden)** | 8 | 9 | 8 | 9 | **5,18** |
+| **3** | **Freie Kfz-Werkstätten** | 8 | 6 | 9 | 9 | **3,89** |
+| **4** | **SHK-Betriebe** | 9 | 5 | 9 | 9 | **3,65** |
+| **5** | **Zahnarztpraxen / Dental-MVZ** | 8 | 8 | 7 | 8 | **3,58** |
+| **6** | **Steuerkanzleien** | 8 | 9 | 8 | 6 | **3,46** |
+| 7 | Elektro-/E-Handwerke | 8 | 5 | 9 | 9 | 3,24 |
+| 8 | Containerdienste/Entsorgung | 8 | 7 | 6 | 9 | 3,02 |
+| 9 | Küchenstudios/Fensterbauer | 8 | 7 | 7 | 8 | 3,14 |
+| 10 | Tierarztpraxen | 9 | 6 | 6 | 8 | 2,59 |
+| 11 | Speditionen/Fuhrparks | 8 | 8 | 6 | 6 | 2,30 |
+| 12 | Arztpraxen (GKV) | 9 | 6 | 6 | 7 | 2,27 |
+| 13 | Dachdecker | 9 | 4 | 8 | 9 | 2,59 |
+| 14 | Metallbau/CNC-Lohnfertigung | 7 | 7 | 6 | 5 | 1,47 |
+| 15 | Facility Management | 7 | 9 | 6 | 5 | 1,89 |
+| 16 | Sicherheitsdienste | 7 | 6 | 6 | 6 | 1,51 |
+| 17 | Bauunternehmen | 8 | 8 | 5 | 4 | 1,28 |
+| 18 | GaLaBau | 6 | 4 | 7 | 9 | 1,51 |
+| 19 | Lohnunternehmer Landwirtschaft | 7 | 6 | 8 | 7 | 2,35 |
+| 20 | Ambulante Pflegedienste | 9 | 4 | 7 | 5 | 1,26 |
+| 21 | Maler/Lackierer | 6 | 3 | 7 | 9 | 1,13 |
+| 22 | PV-Installateure/Energieberater | 4 | 3 | 7 | 8 | 0,67 |
+
+*(Rang = Score; die Nummerierung 7–22 folgt der Score-Reihenfolge nur grob,
+weil einzelne Zielgruppen zusätzlich wegen Marktgröße abgewertet wurden –
+siehe Spalte „Konzentrationsrisiko" in 3.3.)*
+
+### 3.3 Korrekturfaktor Marktgröße (Konzentrationsrisiko)
+Score allein reicht nicht. Entscheidend ist, **welchen Marktanteil** Maschine A
+für 100.000 € MRR braucht. Über 2 % Marktanteil in einem fragmentierten
+KMU-Markt ist ohne Verbandspartnerschaft unrealistisch.
+
+| Zielgruppe | ARPU [S] | Kunden für 100k MRR | Marktanteil nötig | Bewertung |
+|---|---|---|---|---|
+| Autohäuser | 1.200 € | **83** | 0,6 % | ✅ sehr gut |
+| Steuerkanzleien | 800 € | **125** | 0,23 % | ✅ sehr gut |
+| Immobilienverwaltungen | 1.000 € | **100** | ~0,45 % | ✅ sehr gut |
+| Zahnarztpraxen (+MVZ) | 550/4.200 € | **128** | ~0,3 % | ✅ sehr gut |
+| Speditionen | 1.500 € | **67** | ~1 % | ✅ gut |
+| Facility Management | 2.500 € | **40** | ~0,15 % | ✅ gut (aber Zyklus) |
+| Freie Kfz-Werkstätten | 350 € | **286** | 1,3 % | ⚠️ grenzwertig |
+| Elektrobetriebe | 300 € | **333** | 0,68 % | ⚠️ Kundenzahl hoch |
+| SHK | 250 € | **400** | 0,83 % | ⚠️ Kundenzahl hoch |
+| Küchenstudios (nur) | 600 € | **167** | 3,7–5,6 % | ❌ Markt zu klein |
+| Containerdienste | 650 € | **154** | 5–10 % | ❌ Markt zu klein |
+| Lohnunternehmer | 500 € | **200** | ~10 % (BLU) | ❌ Markt zu klein |
+| GaLaBau | 250 € | **400** | 2,0 % | ❌ ARPU + Saison |
+| Dachdecker | 220 € | **455** | 3,0 % | ❌ zu viele Kunden |
+| Maler | 150 € | **667** | ~1,7 % | ❌ Kundenzahl absurd |
+| PV | 250 € | **400** | 4,3–6,3 % | ❌ falsches Problem |
+
+**Zentrale Erkenntnis:** Die Zielgruppen mit dem *größten* Problem
+(Dachdecker 13,5 % Umsatzschaden, SHK, Pflege) sind fast durchweg die mit der
+*niedrigsten* Zahlungsbereitschaft und der *höchsten* nötigen Kundenzahl.
+**Problemgröße und Zahlungsbereitschaft sind in diesem Markt negativ korreliert** –
+weil kleine Betriebe die größten Lücken und die kleinsten Budgets haben.
+Wer dem Schmerz folgt, landet bei 400–700 Kleinkunden und damit bei genau dem
+Geschäftsmodell, das Nico ausgeschlossen hat.
+
+### 3.4 Empfohlene Marktarchitektur
+Aus der Analyse folgt keine „eine Zielgruppe", sondern eine **Zwei-Segment-Struktur**:
+
+**Segment A – Ankerkunden (60 % des MRR, ~60–80 Kunden):**
+Immobilienverwaltungen, Autohäuser, Steuerkanzleien.
+ARPU 1.000–2.500 €, lange Zyklen, sehr niedriger Churn, hohe Bonität.
+Diese Kunden finanzieren das Team und erzeugen den Unternehmenswert.
+
+**Segment B – Volumensegment (40 % des MRR, ~150–200 Kunden):**
+Freie Kfz-Werkstätten und SHK-Betriebe, erschlossen **ausschließlich über
+Multiplikatoren** (Werkstattkonzepte, SHK-Großhandel), nie über Einzelakquise.
+ARPU 250–450 €, standardisiertes Self-Onboarding, Support über Wissensdatenbank
+und angelernte Kraft.
+
+Rechnung: 70 × 1.400 € = 98.000 € + 180 × 350 € = 63.000 € → **161.000 € MRR**
+mit **250 Kunden** [S]. Das erreicht sogar die in 01_nordstern genannte
+Zielgröße von ca. 190.000 € Monatsumsatz für 30.000 € netto privat –
+mit 300–320 Kunden [S].
+
+### 3.5 Was diese Analyse NICHT beantwortet (Übergaben)
+
+| Offene Frage | An wen |
+|---|---|
+| Reale Nichtannahmequote am Telefon – **muss gemessen werden**, alle kursierenden Zahlen sind Anbietermarketing | MVP-Plan / Pilotmessung |
+| Warum kündigen Betriebe ihr Telefonsekretariat? Churn-Gründe bestehender Anbieter | Agent 11 (Kundensignale) |
+| Nicht verifizierte Betriebszahlen: Maler, Bau, Metallbau, Küchenstudios, Fensterbauer, Immobilienverwaltungen, Arztpraxen, Zahnarztpraxen, Energieberater | Nachrecherche mit freiem Suchkontingent |
+| Friedhofsprüfung: Repareo/caroobi/Autobutler (Kfz), Schuttflix (Container), gescheiterte Handwerker-Plattformen | Agent 10 (Copy & Improve) |
+| Wettbewerbspreise konkreter KI-Telefonanbieter (agentino, vokaro, telewa u. a.) und deren Kundenzahl | Agent 03 (Wettbewerb) |
+| Ob die Verbands-/Verbundgruppenkanäle tatsächlich Partnerprogramme öffnen | Agent 06 (Delegation/Go-to-Market) |
+| DATEV-Marktplatz-Aufnahmebedingungen; § 203 StGB-Konstruktion | Agent 08 (Risiko/Regulierung) |
+| Ob Nico Hausverwaltungen und Kanzleien als Kundschaft dauerhaft interessant findet (Anzug-Business-Nähe) | Agent 09 (Persönlichkeits-Fit) |
+
+---
+
+## 4. Quellenverzeichnis (in dieser Session verifiziert)
+
+| Quelle | Verwendet für |
+|---|---|
+| ZDH – Kennzahlen des Handwerks 2025 / Wirtschaftlicher Stellenwert 2025 (zdh.de) | 1.038.126 Betriebe, 783,2 Mrd. € |
+| ZVSHK – SHK-Handwerk Jahresbilanz 2024/2025 (zvshk.de, sbz-online.de) | 48.050 Betriebe, 59,12 Mrd. €, 390.000 Beschäftigte, −4 % |
+| ZVEH – Branchenkennzahlen der E-Handwerke 2024/2025 (zveh.de, elektrowirtschaft.de, pv-magazine.de) | 49.113 Unternehmen, 88,2 Mrd. €, 451.050 Beschäftigte, 46.403 Azubis |
+| ZDK – Jahresbilanz Kfz-Gewerbe (kfzgewerbe.de, krafthand.de, autohaus.de) | 36.170 Betriebe (14.120/22.050), 207,3 Mrd. €, 428.000 Beschäftigte |
+| ZVDH – Steckbrief/Geschäftsbericht, Stand 31.12.2025 (dachdecker.org, ddh.de) | 15.241 Betriebe, 13,5 Mrd. €, 61.723 AN, 78 % < 10 AN |
+| BGL Bundesverband Garten-, Landschafts- und Sportplatzbau – Branchenstatistik 2025 | 19.898 Betriebe, 11,11 Mrd. €, 131.746 Beschäftigte, 4.254 organisiert |
+| BStBK – Berufsstatistik 2025, Stand 01.01.2026 (bstbk.de) | 105.953 Mitglieder, 53.932 Praxen, 88.995 StB, 14.670 Gesellschaften, 17.081 Azubis, 65,9 % selbstständig |
+| VDIV Deutschland – Branchenbarometer 2025 (vdiv.de) | 70 % Überlastung, 57 % Mandatsabgabe, 14 % Aufnahmestopp, 80 % Automatisierungsinvestition, +12 % Preise, +7,8 % Umsatz |
+| pflegemarkt.com / MD-Bericht / Destatis Pflegestatistik | 17.938–17.976 Dienste, 2.275.280 Patienten, 15.549 amtlich, 623/292 Gründungen/Schließungen |
+| DSLV / BGL / VerkehrsRundschau / eurotransport | 592.622 Beschäftigte, 123,1 Mrd. €, 64 % Dispo-Stellen unbesetzbar, 70.000 fehlende Fahrer, Mindestlohn 13,90/14,60 € |
+| BDSW / Lünendonk-Liste 2025 (bdsw.de, luenendonk.de) | 4.517 Unternehmen, 290.871 Beschäftigte, 14,02/14,75 Mrd. €, Top 25 = 5.628,1 Mio. € |
+| BMUV – Abfallwirtschaft in Deutschland 2025 | ca. 11.000 Unternehmen, 280.000 Beschäftigte, ca. 80 Mrd. € |
+| Lünendonk – Facility Service in Deutschland 2025 | Top 25 = 18,7 Mrd. €, +7,8 %, >30 % Marktanteil, 291.792 Beschäftigte |
+| KZBV – Statistisches Jahrbuch 2025 (kzbv.de, rebmann-research.de) | 677.000 € Ø Praxisumsatz, 30,0 Mrd. € gesamt |
+| KBV/IGES – PraxisBarometer Digitalisierung 2025, n=1.700 (kbv.de, iges.com) | 40 % Online-Termin, 45 % Online-Rezept, 44 % DiGA, 87 % eArztbrief, eRezept 63→77 % |
+| Bundestierärztekammer – Tierärztestatistik 2025 | 46.089 approbiert, 34.476 tätig, rückläufige Praxiszahlen |
+| BLU Bundesverband Lohnunternehmen | ca. 2.000 Lohnunternehmen, 30.000 Mitarbeitende, 12 Landesverbände |
+| BDSH / Solarmonitor 2025 / Destatis / listflix | 9.203 bzw. 8.000 bzw. 6.300 PV-Betriebe, 46,1 % Kleinstunternehmen, 4,8 Mio. PV-Anlagen |
+| **Bitkom/ZDH – Digitalisierung des Handwerks 2025, n=504** | **KI 4 %/9 %, 69 % Investitionshürde, 52 % Sorge, 29 % KI-Kompetenz, Note 3,0, 85 % digitale Services, 76 % Zeitersparnis** |
+| **KfW – Digitalisierungsbericht Mittelstand 2025** | **23,8 Mrd. €, Kleine 73 %/24 %, Große 2 %/41 % (9,2 Mrd. €), Trend 31 %→24 %** |
+| Preisvergleiche Handwerkersoftware (trusted.de, gruenderkueche.de) + Anbieterpreisseiten (HERO, Meisterwerk, Lexware, Bosch) | 15–120 €/Nutzer/Monat |
+| Telefonservice-Anbieterpreisseiten (phonea, Mobile Office, officehelden, cloudsecretary) | 50–250 €/Monat, 0,99–1,70 €/Anruf, 24/7 +29,50 €/Monat |
+
+**Nicht als Quelle verwendet (Anbietermarketing ohne Primärbeleg):**
+agentino.de, telewa.de, vokaro.net, easy-kiagentur.de, klickautomation.com,
+digitalolymp.ch, servasbot.at, starbuero.de, digital-rezeption.de.
+
+---
+
+*Ende Agent 04.*
