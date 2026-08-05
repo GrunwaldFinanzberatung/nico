@@ -183,3 +183,69 @@ für Handwerksbetriebe, sondern **nur durch einen Zielgruppenwechsel** — weg v
 ausführenden Kleinbetrieb, hin zum **Betreiber mit Anlagenbestand und
 Haftungsrisiko**. Das ist die wichtigste strategische Ableitung dieser
 Nachrecherche und muss in die Bewertung aller Modelle einfließen.
+
+---
+
+## 6. Friedhofsprüfung „Betreiberpflichten-Manager" (Agent 01, Modell F.2)
+
+Agent 01 nennt als auffälligste Marktlücke einen Anbieter, der einem
+Mittelstandsstandort **alle** technischen Betreiberpflichten aus einer Hand
+abnimmt. Agent 01 selbst verlangt dafür eine Wettbewerbsprüfung (F.5, Punkt 4).
+Ergebnis dieser Prüfung:
+
+### 6.1 Wer besetzt das Feld heute?
+
+| Akteur | Was er tatsächlich anbietet | Ist es das gesuchte Produkt? |
+|---|---|---|
+| **TÜV SÜD** | `netinform.RE` – Plattform für Betreiberverantwortung bei technischer Gebäudeausrüstung und Aufzügen [F] | **Nein** – Software, keine Leistungsübernahme |
+| **TÜV Rheinland** | „Roter Faden" Betreiberverantwortung [F] | **Nein** – Orientierung/Beratung |
+| **TÜV NORD** | Fachinhalt „Betreiberpflichten wahrnehmen und delegieren" [F] | **Nein** – Wissen/Schulung |
+| **TÜV-Akademien** (DE/AT) | Weiterbildungen „Betreiberverantwortung im FM" [F] | **Nein** – Schulung |
+| **Maqsima**, **kevox**, **Alpha IC**, **DGWZ** | Software, Beratung, integriertes Prüfmanagement, Fachinformation [F] | **Nein** – Software/Beratung |
+| **Apleona, Piepenbrock, Wisag** (lt. Agent 01) | Integrated Facility Management ab großen Portfoliogrößen [F, Agent 01] | **Nein** – falsche Kundengröße |
+
+**Urteil: Die Lücke ist plausibel, aber nur mittelstark belegt.** Belegt ist,
+dass die Großen entweder **Software**, **Schulung** oder **IFM für Großkunden**
+verkaufen. Nicht belegt ist ein systematischer Negativbefund — es wurden zwei
+gezielte Suchen durchgeführt, nicht zehn. Nach Methodik-Regel 5 bleibt hier ein
+**Warnhinweis** stehen: Der Negativbefund ist zu härten, bevor gebaut wird.
+
+### 6.2 Zwei belegte Fakten, die das Modell formen
+
+1. **„Über 50 verschiedene Pflichtvorschriften allein vom Gesetzgeber
+   (Bund und Länder)"** [F, TÜV-Quelle]. Das stützt Agent 01s Beobachtung
+   von 15–18 parallelen Verträgen je Standort und ist das quantitative
+   Rückgrat des Nutzenversprechens.
+
+2. **Rechtsschranke — entscheidend für die Produktgestaltung:**
+   Betreiberpflichten **können delegiert werden**, aber die
+   **Gesamtverantwortung bleibt beim Betreiber/Eigentümer** [F]. Die
+   Delegation erfordert: sorgfältige Auswahl und Eignungsprüfung des
+   Beauftragten, klare Definition der übertragenen Pflichten, **Schriftform
+   mit Gegenzeichnung**, und Bereitstellung aller Kompetenzen und Mittel [F].
+
+**Konsequenz:** Das Produkt darf **nicht** als „wir übernehmen Ihre Haftung"
+verkauft werden — das ist rechtlich nicht lieferbar und wäre ein
+Haftungsrisiko nach K.-o.-Kriterium 9. Es muss verkauft werden als:
+
+> „Wir stellen sicher, dass Sie jederzeit **nachweisen** können, alle Pflichten
+> erfüllt zu haben — Kataster, Fristen, Durchführung durch geprüfte
+> Fachpartner, Auditakte auf Knopfdruck."
+
+Das ist zugleich die **gute** Nachricht: Weil die Schriftform-Delegation
+gesetzlich vorgesehen und formalisiert ist, existiert bereits ein
+rechtlicher Rahmen, in den sich das Produkt einfügt. Der Anbieter braucht
+**keine eigene Akkreditierung**, solange er die prüfpflichtige Leistung nicht
+selbst erbringt, sondern bei qualifizierten Partnern einkauft und deren
+Eignung dokumentiert. Damit ist K.-o.-Kriterium 3 **nicht** verletzt.
+
+### 6.3 Verbleibende Prüfaufträge
+
+1. Negativbefund mit 8–10 weiteren Suchen härten (Suchbegriffe: „Betreiberpflichten
+   Komplettservice", „Prüfpflichten Rundumsorglos Gewerbe", „Compliance
+   Facility Managed Service Mittelstand").
+2. Anzahl deutscher Betriebsstätten mit 50–500 Mitarbeitern (Destatis) — fehlt.
+3. Durchschnittliches Jahresvolumen der Prüfpflichten je Standort — fehlt;
+   Agent 01 schätzt 5.000–30.000 €/Standort/Jahr [S], unverifiziert.
+4. Versicherbarkeit: Vermögensschadenhaftpflicht für Koordinationsfehler
+   (z. B. übersehene Frist) — Prämie und Deckung unbekannt. → Agent 08.
